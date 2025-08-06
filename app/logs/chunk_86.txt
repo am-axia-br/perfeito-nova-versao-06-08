@@ -1,0 +1,383 @@
+Demonstrativo de Pagamento
+ 
+ESTABELECIMENTO
+C.N.P.J
+FOL
+ PEPSICO DO BRASIL LTDA
+31.565.104/0048-30
+1
+ESTAB
+ID GLOBAL
+NOME
+FUNÇÃO
+DEP
+FILH
+048
+80980997
+ ALEXANDRO PEREIRA DE OLIVEIRA
+VDOR RESERV DTS
+01
+02
+C.R.
+BCO
+AG
+CONTA
+SALÁRIO
+REFERÊNCIA
+BR32210
+237
+2646
+26595-0
+1.748,52/MES
+NOV/2022
+    DATA DE PAGAMENTO: 30/11/2022
+CONTA
+QTDE.v1 
+VENCIMENTOS 
+DESCONTOS 
+ 
+ 0010 Salário Base
+|
+220,00 |
+1.748,52 |
+ 
+ 3130 Dsr s/ Salário Variável
+|
+ |
+437,10 |
+ 
+ 4400 Variável RVV
+|
+104,16 |
+1.821,26 |
+ 
+ 2821 Adiant Quinzenal
+|
+ |
+ |
+1.486,24 
+ 3508 Assistência Odontológica
+|
+ |
+ |
+6,15 
+ 3612 Assist. Odontologica Dependente
+|
+ |
+ |
+12,30 
+ 5321 Seguro de Vida
+|
+ |
+ |
+7,71 
+ 5500 IR Retido
+|
+ |
+ |
+158,22 
+ 5560 INSS
+|
+ |
+ |
+397,13 
+ 5616 Vale Alimentação
+|
+ |
+ |
+118,36 
+ 
+---- -----BASE/OUTROS----- ----
+|
+-----
+|
+----------
+|
+----------
+ 
+ 5501 Base IR
+|
+ |
+ |
+3.420,16 
+ 5561 Base INSS
+|
+ |
+ |
+4.006,88 
+ 8000 Salario Contribuicao
+|
+ |
+ |
+4.006,88 
+ 8002 Contribuição - Trib. Salário
+|
+ |
+ |
+4.006,88 
+ 9921 Base FGTS
+|
+ |
+ |
+4.006,88 
+ 9924 Base FGTS 13o.Sal.
+|
+ |
+ |
+246,39 
+ 3822 Qtde DSR (Mês Anterior)
+|
+ |
+ |
+6,00 
+ 3823 Qtde Dias úteis (Mês Anterior)
+|
+ |
+ |
+25,00 
+ 4643 Base FGTS Adto. 13º Sal.
+|
+ |
+ |
+246,39 
+ 4663 FGTS ADTO. 13º SAL.
+|
+ |
+ |
+19,71 
+ 7352 Total de Pagamentos
+|
+ |
+ |
+4.006,88 
+ 7353 Total de Descontos
+|
+ |
+ |
+2.186,11 
+ 8010 Salário Contribuição INSS Empregado
+|
+ |
+ |
+4.006,88 
+ 9950 Líquido Mensal
+|
+ |
+ |
+1.820,77 
+ 8100 Inss Empregador
+|
+20,00 |
+ |
+801,38 
+ 8101 RAT
+|
+ |
+ |
+138,42 
+ 9920 FGTS
+|
+ |
+ |
+320,55 
+ 9923 FGTS - 13o. Salário
+|
+ |
+ |
+19,71 
+ 
+VENCIMENTOS 
+DESCONTOS 
+LÍQUIDO 
+T O T A I S
+4.006,88 
+2.186,11 
+1.820,77 
+   
+   
+   
+   
+ Processado pela ADP
+ 
+Assinado eletronicamente por: ALEXANDRE LAURIA DUTRA - Juntado em: 16/09/2024 18:39:01 - 97090b1
+Fls.: 162
+
+
+Demonstrativo de Pagamento
+ 
+ESTABELECIMENTO
+C.N.P.J
+FOL
+ PEPSICO DO BRASIL LTDA
+31.565.104/0048-30
+1
+ESTAB
+ID GLOBAL
+NOME
+FUNÇÃO
+DEP
+FILH
+048
+80980997
+ ALEXANDRO PEREIRA DE OLIVEIRA
+VDOR RESERV DTS
+01
+02
+C.R.
+BCO
+AG
+CONTA
+SALÁRIO
+REFERÊNCIA
+BR32210
+237
+2646
+26595-0
+1.748,52/MES
+OUT/2022
+    DATA DE PAGAMENTO: 28/10/2022
+CONTA
+QTDE.v1 
+VENCIMENTOS 
+DESCONTOS 
+ 
+ 0010 Salário Base
+|
+220,00 |
+1.748,52 |
+ 
+ 3130 Dsr s/ Salário Variável
+|
+ |
+55,63 |
+ 
+ 4400 Variável RVV
+|
+87,50 |
+611,98 |
+ 
+ 2821 Adiant Quinzenal
+|
+ |
+ |
+1.486,24 
+ 3508 Assistência Odontológica
+|
+ |
+ |
+6,15 
+ 3612 Assist. Odontologica Dependente
+|
+ |
+ |
+12,30 
+ 5321 Seguro de Vida
+|
+ |
+ |
+7,71 
+ 5560 INSS
+|
+ |
+ |
+199,27 
+ 5616 Vale Alimentação
+|
+ |
+ |
+118,36 
+ 
+---- -----BASE/OUTROS----- ----
+|
+-----
+|
+----------
+|
+----------
+ 
+ 5501 Base IR
+|
+ |
+ |
+2.027,27 
+ 5561 Base INSS
+|
+ |
+ |
+2.416,13 
+ 8000 Salario Contribuicao
+|
+ |
+ |
+2.416,13 
+ 8002 Contribuição - Trib. Salário
+|
+ |
+ |
+2.416,13 
+ 9921 Base FGTS
+|
+ |
+ |
+2.416,13 
+ 3822 Qtde DSR (Mês Anterior)
+|
+ |
+ |
+1,00 
+ 3823 Qtde Dias úteis (Mês Anterior)
+|
+ |
+ |
+11,00 
+ 7352 Total de Pagamentos
+|
+ |
+ |
+2.416,13 
+ 7353 Total de Descontos
+|
+ |
+ |
+1.830,03 
+ 8010 Salário Contribuição INSS Empregado
+|
+ |
+ |
+2.416,13 
+ 9950 Líquido Mensal
+|
+ |
+ |
+586,10 
+ 8100 Inss Empregador
+|
+20,00 |
+ |
+483,23 
+ 8101 RAT
+|
+ |
+ |
+83,47 
+ 9920 FGTS
+|
+ |
+ |
+193,29 
+ 
+VENCIMENTOS 
+DESCONTOS 
+LÍQUIDO 
+T O T A I S
+2.416,13 
+1.830,03 
+586,10 
+   
+   
+   
+   
+ Processado pela ADP
+ 
+Assinado eletronicamente por: ALEXANDRE LAURIA DUTRA - Juntado em: 16/09/2024 18:39:01 - 97090b1
+Fls.: 163

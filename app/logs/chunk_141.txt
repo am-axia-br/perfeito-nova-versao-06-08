@@ -1,0 +1,45 @@
+Destaco que na fase pré-judicial, além da indexação, deverá incidir juros
+legais (art. 39, caput, da Lei 8.177, de 1991), conforme item "6" da ementa.
+No referido julgamento, o E. STF afastou a aplicação dos juros, uma vez
+que a taxa SELIC já constituiria critério simultâneo de atualização monetária e incidência de juros a
+partir de ajuizamento da ação.
+Em 30/8/2024 entrou em vigor a Lei nº 14.905/24, alterando os artigos
+389 e 406 do Código Civil Brasileiro, que passaram a dispor:
+Art. 389. Não cumprida a obrigação, responde o devedor por perdas e danos, mais juros,
+atualização monetária e honorários de advogado.
+Parágrafo único. Na hipótese de o índice de atualização monetária não ter sido
+convencionado ou não estar previsto em lei específica, será aplicada a variação do Índice
+Nacional de Preços ao Consumidor Amplo (IPCA), apurado e divulgado pela Fundação
+Instituto Brasileiro de Geografia e Estatística (IBGE), ou do índice que vier a substituí-lo.
+Art. 406. Quando não forem convencionados, ou quando o forem sem taxa estipulada, ou
+quando provierem de determinação da lei, os juros serão fixados de acordo com a taxa
+legal.
+§ 1º A taxa legal corresponderá à taxa referencial do Sistema Especial de Liquidação e
+de Custódia (Selic), deduzido o índice de atualização monetária de que trata o parágrafo
+único do art. 389 deste Código.
+§ 2º A metodologia de cálculo da taxa legal e sua forma de aplicação serão definidas pelo
+Conselho Monetário Nacional e divulgadas pelo Banco Central do Brasil.
+§ 3º Caso a taxa legal apresente resultado negativo, este será considerado igual a 0 (zero)
+para efeito de cálculo dos juros no período de referência.
+Portanto, a partir de 30/08/2024, para fins de atualização monetária, deverá ser
+observado o IPCA (art. 389, parágrafo único, do Código Civil) e, quanto aos juros de
+mora, corresponderão ao resultado da subtração "SELIC - IPCA" (art. 406, §1º, do
+Código Civil), com a possibilidade de não incidência (taxa 0; CC, § 3º do art. 406).
+ 
+Aplica-se, portanto, a regra geral estabelecida pelo Supremo Tribunal
+Federal na ADC 58, no sentido da incidência do IPCA-E na fase pré-judicial, com juros legais e a taxa
+SELIC a partir do ajuizamento da ação mas, a partir de 30/08/2024, deverão ser observadas as novas
+disposições do Código Civil, introduzidas pela Lei nº 14.905/2024.
+Nesse sentido decidiu a SbDI-1 do C. TST, por votação unânime, no
+julgamento do E-ED-RR-713-03.2010.5.04.0029, de relatoria do Ministro Alexandre Agra Belmonte,
+conforme ementa abaixo:
+"RECURSO DE EMBARGOS EM RECURSO DE REVISTA. INTERPOSIÇÃO SOB
+A ÉGIDE DA LEI 13.015/2014. EXECUÇÃO. ATUALIZAÇÃO MONETÁRIA DOS
+DÉBITOS TRABALHISTAS. ÍNDICE APLICÁVEL. Discute-se, no caso, a
+possibilidade de conhecimento do recurso de revista, por violação direta do art. 5º, II, da
+Número do processo: 0011823-38.2023.5.15.0093
+Número do documento: 25051511115602700000133025560
+https://pje.trt15.jus.br/segundograu/Processo/ConsultaDocumento/listView.seam?nd=25051511115602700000133025560
+Assinado eletronicamente por: ANDRE AUGUSTO ULPIANO RIZZARDO - 03/07/2025 14:00:50 - e411554
+ID. e411554 - Pág. 4
+Fls.: 268

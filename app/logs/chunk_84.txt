@@ -1,0 +1,368 @@
+Demonstrativo de Pagamento
+ 
+ESTABELECIMENTO
+C.N.P.J
+FOL
+ PEPSICO DO BRASIL LTDA
+31.565.104/0048-30
+1
+ESTAB
+ID GLOBAL
+NOME
+FUNÇÃO
+DEP
+FILH
+048
+80980997
+ ALEXANDRO PEREIRA DE OLIVEIRA
+VDOR RESERV DTS
+01
+02
+C.R.
+BCO
+AG
+CONTA
+SALÁRIO
+REFERÊNCIA
+BR32210
+237
+2646
+26595-0
+1.903,49/MES
+FEV/2023
+    DATA DE PAGAMENTO: 28/02/2023
+CONTA
+QTDE.v1 
+VENCIMENTOS 
+DESCONTOS 
+ 
+ 0010 Salário Base
+|
+220,00 |
+1.903,49 |
+ 
+ 3130 Dsr s/ Salário Variável
+|
+ |
+304,53 |
+ 
+ 4400 Variável RVV
+|
+66,66 |
+1.268,87 |
+ 
+ 2821 Adiant Quinzenal
+|
+ |
+ |
+1.617,97 
+ 3508 Assistência Odontológica
+|
+ |
+ |
+6,15 
+ 3612 Assist. Odontologica Dependente
+|
+ |
+ |
+12,30 
+ 5321 Seguro de Vida
+|
+ |
+ |
+9,11 
+ 5500 IR Retido
+|
+ |
+ |
+90,21 
+ 5560 INSS
+|
+ |
+ |
+320,55 
+ 5616 Vale Alimentação
+|
+ |
+ |
+118,36 
+ 
+---- -----BASE/OUTROS----- ----
+|
+-----
+|
+----------
+|
+----------
+ 
+ 5501 Base IR
+|
+ |
+ |
+2.966,75 
+ 5561 Base INSS
+|
+ |
+ |
+3.476,89 
+ 8000 Salario Contribuicao
+|
+ |
+ |
+3.476,89 
+ 8002 Contribuição - Trib. Salário
+|
+ |
+ |
+3.476,89 
+ 9921 Base FGTS
+|
+ |
+ |
+3.476,89 
+ 3822 Qtde DSR (Mês Anterior)
+|
+ |
+ |
+6,00 
+ 3823 Qtde Dias úteis (Mês Anterior)
+|
+ |
+ |
+25,00 
+ 7352 Total de Pagamentos
+|
+ |
+ |
+3.476,89 
+ 7353 Total de Descontos
+|
+ |
+ |
+2.174,65 
+ 8010 Salário Contribuição INSS Empregado
+|
+ |
+ |
+3.476,89 
+ 9950 Líquido Mensal
+|
+ |
+ |
+1.302,24 
+ 8100 Inss Empregador
+|
+20,00 |
+ |
+695,38 
+ 8101 RAT
+|
+ |
+ |
+130,12 
+ 9920 FGTS
+|
+ |
+ |
+278,15 
+ 
+VENCIMENTOS 
+DESCONTOS 
+LÍQUIDO 
+T O T A I S
+3.476,89 
+2.174,65 
+1.302,24 
+   
+   
+   
+   
+ Processado pela ADP
+ 
+Assinado eletronicamente por: ALEXANDRE LAURIA DUTRA - Juntado em: 16/09/2024 18:39:01 - 97090b1
+Fls.: 158
+
+
+Demonstrativo de Pagamento
+ 
+ESTABELECIMENTO
+C.N.P.J
+FOL
+ PEPSICO DO BRASIL LTDA
+31.565.104/0048-30
+1
+ESTAB
+ID GLOBAL
+NOME
+FUNÇÃO
+DEP
+FILH
+048
+80980997
+ ALEXANDRO PEREIRA DE OLIVEIRA
+VDOR RESERV DTS
+01
+02
+C.R.
+BCO
+AG
+CONTA
+SALÁRIO
+REFERÊNCIA
+BR32210
+237
+2646
+26595-0
+1.903,49/MES
+JAN/2023
+    DATA DE PAGAMENTO: 30/01/2023
+CONTA
+QTDE.v1 
+VENCIMENTOS 
+DESCONTOS 
+ 
+ 0010 Salário Base
+|
+220,00 |
+1.903,49 |
+ 
+ 3130 Dsr s/ Salário Variável
+|
+ |
+258,48 |
+ 
+ 4400 Variável RVV
+|
+91,66 |
+1.744,74 |
+ 
+ 2821 Adiant Quinzenal
+|
+ |
+ |
+1.617,97 
+ 3508 Assistência Odontológica
+|
+ |
+ |
+6,15 
+ 3612 Assist. Odontologica Dependente
+|
+ |
+ |
+12,30 
+ 5321 Seguro de Vida
+|
+ |
+ |
+9,11 
+ 5500 IR Retido
+|
+ |
+ |
+146,80 
+ 5560 INSS
+|
+ |
+ |
+373,11 
+ 5616 Vale Alimentação
+|
+ |
+ |
+118,36 
+ 
+---- -----BASE/OUTROS----- ----
+|
+-----
+|
+----------
+|
+----------
+ 
+ 5501 Base IR
+|
+ |
+ |
+3.344,01 
+ 5561 Base INSS
+|
+ |
+ |
+3.906,71 
+ 8000 Salario Contribuicao
+|
+ |
+ |
+3.906,71 
+ 8002 Contribuição - Trib. Salário
+|
+ |
+ |
+3.906,71 
+ 9921 Base FGTS
+|
+ |
+ |
+3.906,71 
+ 3822 Qtde DSR (Mês Anterior)
+|
+ |
+ |
+4,00 
+ 3823 Qtde Dias úteis (Mês Anterior)
+|
+ |
+ |
+27,00 
+ 7352 Total de Pagamentos
+|
+ |
+ |
+3.906,71 
+ 7353 Total de Descontos
+|
+ |
+ |
+2.283,80 
+ 8010 Salário Contribuição INSS Empregado
+|
+ |
+ |
+3.906,71 
+ 9950 Líquido Mensal
+|
+ |
+ |
+1.622,91 
+ 8100 Inss Empregador
+|
+20,00 |
+ |
+781,34 
+ 8101 RAT
+|
+ |
+ |
+146,21 
+ 9920 FGTS
+|
+ |
+ |
+312,54 
+ 
+VENCIMENTOS 
+DESCONTOS 
+LÍQUIDO 
+T O T A I S
+3.906,71 
+2.283,80 
+1.622,91 
+   
+   
+   
+   
+ Processado pela ADP
+ 
+Assinado eletronicamente por: ALEXANDRE LAURIA DUTRA - Juntado em: 16/09/2024 18:39:01 - 97090b1
+Fls.: 159

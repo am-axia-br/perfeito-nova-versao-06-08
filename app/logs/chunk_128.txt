@@ -1,0 +1,120 @@
+Código de Recolhimento
+Número do Processo/Referência
+Competência
+Vencimento
+CPF ou CNPJ do Contribuinte
+Código da Unidade Gestora Arrecadadora
+Valor Principal
+(-) Descontos/Abatimentos
+(-) Outras Deduções
+(+) Mora/Multa
+(+) Juros/Encargos
+(+) Outros Acréscimos
+(=) Valor Total
+Instruções: As informações inseridas nessa guia são de exclusiva responsabilidade do contribuinte,
+que deverá, em caso de dúvidas, consultar a Unidade Gestora Arrecadadora.
+85850000000-2 28000280187-7 40001052315-0 65104000177-9
+GRU Judicial
+Nome do Requerente/Autor
+CPF/CNPJ do Requerente/Autor
+Seção Judiciária:
+Base de Cálculo:
+Vara:
+Classe:
+ALEXANDRO PEREIRA DE OLIVEIRA
+0093
+GUIA DE RECOLHIMENTO DA UNIÃO - GRU
+MINISTÉRIO DA FAZENDA
+SECRETARIA DO TESOURO NACIONAL
+Nome da Unidade Gestora Arrecadadora
+TRIBUNAL REGIONAL DO TRABALHO DA 15A.REGIAO
+Nome do Contribuinte
+PEPSICO DO BRASIL LTDA
+18740-2
+00118233820235150093
+02/2025
+04/02/2025
+080011
+31.565.104/0001-77
+ 28,00
+ 28,00
+27/01/2025 16:44:39
+Gerado a partir de https://pagtesouro.tesouro.gov.br/portal-gru/
+SR. CAIXA: NÃO RECEBER EM CHEQUE
+Pagamento Exclusivo na Caixa Econômica Federal ou no Banco do Brasil
+Código de Recolhimento
+Número do Processo/Referência
+Competência
+Vencimento
+CPF ou CNPJ do Contribuinte
+Código da Unidade Gestora Arrecadadora
+Valor Principal
+(-) Descontos/Abatimentos
+(-) Outras Deduções
+(+) Mora/Multa
+(+) Juros/Encargos
+(+) Outros Acréscimos
+(=) Valor Total
+Instruções: As informações inseridas nessa guia são de exclusiva responsabilidade do contribuinte,
+que deverá, em caso de dúvidas, consultar a Unidade Gestora Arrecadadora.
+85850000000-2 28000280187-7 40001052315-0 65104000177-9
+GRU Judicial
+Nome do Requerente/Autor
+CPF/CNPJ do Requerente/Autor
+Seção Judiciária:
+Base de Cálculo:
+Vara:
+Classe:
+ALEXANDRO PEREIRA DE OLIVEIRA
+0093
+GUIA DE RECOLHIMENTO DA UNIÃO - GRU
+MINISTÉRIO DA FAZENDA
+SECRETARIA DO TESOURO NACIONAL
+Nome da Unidade Gestora Arrecadadora
+TRIBUNAL REGIONAL DO TRABALHO DA 15A.REGIAO
+Nome do Contribuinte
+PEPSICO DO BRASIL LTDA
+18740-2
+00118233820235150093
+02/2025
+04/02/2025
+080011
+31.565.104/0001-77
+ 28,00
+ 28,00
+27/01/2025 16:44:39
+Gerado a partir de https://pagtesouro.tesouro.gov.br/portal-gru/
+SR. CAIXA: NÃO RECEBER EM CHEQUE
+Pagamento Exclusivo na Caixa Econômica Federal ou no Banco do Brasil
+Assinado eletronicamente por: ALEXANDRE LAURIA DUTRA - Juntado em: 04/02/2025 09:51:37 - d3789ab
+https://pje.trt15.jus.br/pjekz/validacao/25020409513009700000250301348?instancia=1
+Número do processo: 0011823-38.2023.5.15.0093
+Número do documento: 25020409513009700000250301348
+Fls.: 238
+
+
+Emissão de comprovantes - Autorizável
+G3370316119867861
+03/02/2025 16:16:59
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL
+03/02/2025 -     AUTOATENDIMENTO      - 16.16.56
+1913501913         SEGUNDA VIA              0001
+                                               
+            COMPROVANTE DE PAGAMENTO           
+                                               
+CLIENTE: PEPSICO DO BRASIL LTDA                
+AGENCIA: 1913-5 CONTA:       401.519-3         
+================================================
+Convenio  STN - GRU JUDICIAL                   
+Codigo de Barras   85850000000-2   28000280187-7
+                   40001052315-0   65104000177-9
+Data do pagamento                     03/02/2025
+Valor Total                                28,00
+------------------------------------------------
+DOCUMENTO:  020302                             
+AUTENTICACAO SISBB:        3.1F1.986.2F0.5AE.2A7
+Assinado eletronicamente por: ALEXANDRE LAURIA DUTRA - Juntado em: 04/02/2025 09:51:37 - 49d7833
+https://pje.trt15.jus.br/pjekz/validacao/25020409513032100000250301351?instancia=1
+Número do processo: 0011823-38.2023.5.15.0093
+Número do documento: 25020409513032100000250301351
+Fls.: 239

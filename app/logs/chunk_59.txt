@@ -1,0 +1,28 @@
+7329 Class Cargo PLR      OUTRO                          1,00           1,00           1,00           1,00                          4,00
+  7338 Código Estabelecimen OUTRO                     10.048,00      10.048,00      10.048,00      10.048,00                     40.192,00
+  7339 Código CR            OUTRO                     32.210,00      32.210,00      32.210,00      32.210,00                    128.840,00
+  7340 Código Função        OUTRO                      5.016,00       5.016,00       5.016,00       5.016,00                     20.064,00
+  7343 Categoria            OUTRO                          3,00           3,00           3,00           3,00                         12,00
+  7344 Sindicato            OUTRO                          3,00           3,00           3,00           3,00                         12,00
+  7352 Total de Pagamentos  OUTRO                      1.040,48       2.416,13       4.253,27       4.270,44         680,96      12.661,28
+  7353 Total de Descontos   OUTRO                        433,69       1.830,03       2.186,11       2.220,06         297,46       6.967,35
+  7355 Media PLR            OUTRO                                       333,81         975,32       1.186,82                      2.495,95
+  7372 Cód.Contábil - 1 - M OUTRO                          2,00           2,00           2,00           2,00                          8,00
+  7379 Base Seg. Vida - Cap OUTRO                      1.748,52       2.416,13       4.006,88       3.724,79                     11.896,32
+  7801 Verba Total RVV Mês  OUTRO                                       611,98       1.821,26         437,13                      2.870,37
+  7805 Elegibilidade / Qtde OUTRO                                         1,00           2,00           3,00                          6,00
+  8010 Salário Contribuição OUTRO                        699,41       2.416,13       4.006,88       3.915,31                     11.037,73
+  8157 Contrib Diss - Trib  OUTRO                                                                     355,13                        355,13
+  8197 Contrib Diss - Trib  OUTRO                                                                     355,13                        355,13
+  8199 SALARIO CONTRIBUICAO OUTRO                                                                     355,13                        355,13
+  8200 INSS Empregador - Di OUTRO                                                                      71,03                         71,03
+  8201 RAT - Dif Dissidio   OUTRO                                                                      12,27                         12,27
+  8202 Salario Educação - D OUTRO                                                                       8,88                          8,88
+  8203 INCRA - Dif Dissidio OUTRO                                                                       0,71                          0,71
+  8206 SENAC - Dif Dissidio OUTRO                                                                       3,55                          3,55
+  8207 SESC - Dif Dissidio  OUTRO                                                                       5,33                          5,33
+  8208 SEBRAE - Dif Dissidi OUTRO                                                                       2,13                          2,13
+  8214 FGTS - Dif Dissidio  OUTRO                                                                      28,41                         28,41
+  8216 Base FGTS - Dif  Dis OUTRO                                                                     355,13                        355,13
+  9949 Líquido de Adiantame OUTRO                        295,90                                                                     295,90
+  9950 Líquido Mensal       OUTRO                        606,79         586,10       1.820,77       2.050,38                      5.064,04

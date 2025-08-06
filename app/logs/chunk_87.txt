@@ -1,0 +1,177 @@
+Demonstrativo de Pagamento
+ 
+ESTABELECIMENTO
+C.N.P.J
+FOL
+ PEPSICO DO BRASIL LTDA
+31.565.104/0048-30
+1
+ESTAB
+ID GLOBAL
+NOME
+FUNÇÃO
+DEP
+FILH
+048
+80980997
+ ALEXANDRO PEREIRA DE OLIVEIRA
+VDOR RESERV DTS
+00
+02
+C.R.
+BCO
+AG
+CONTA
+SALÁRIO
+REFERÊNCIA
+BR32210
+237
+2646
+26595-0
+1.748,52/MES
+SET/2022
+    DATA DE PAGAMENTO: 30/09/2022
+CONTA
+QTDE.v1 
+VENCIMENTOS 
+DESCONTOS 
+ 
+ 0010 Salário Base
+|
+88,00 |
+699,41 |
+ 
+ 0030 Salário Família
+|
+ |
+45,17 |
+ 
+ 3003 Antec. Auxilio Refeição
+|
+ |
+295,90 |
+ 
+ 3501 Desconto Adto. Aux. Refeição
+|
+ |
+ |
+295,90 
+ 3508 Assistência Odontológica
+|
+ |
+ |
+6,15 
+ 3612 Assist. Odontologica Dependente
+|
+ |
+ |
+12,30 
+ 5321 Seguro de Vida
+|
+ |
+ |
+7,71 
+ 5560 INSS
+|
+ |
+ |
+52,45 
+ 5616 Vale Alimentação
+|
+ |
+ |
+59,18 
+ 
+---- -----BASE/OUTROS----- ----
+|
+-----
+|
+----------
+|
+----------
+ 
+ 5501 Base IR
+|
+ |
+ |
+646,96 
+ 5561 Base INSS
+|
+ |
+ |
+699,41 
+ 8000 Salario Contribuicao
+|
+ |
+ |
+699,41 
+ 8002 Contribuição - Trib. Salário
+|
+ |
+ |
+699,41 
+ 9921 Base FGTS
+|
+ |
+ |
+699,41 
+ 7352 Total de Pagamentos
+|
+ |
+ |
+1.040,48 
+ 7353 Total de Descontos
+|
+ |
+ |
+433,69 
+ 8010 Salário Contribuição INSS Empregado
+|
+ |
+ |
+699,41 
+ 9950 Líquido Mensal
+|
+ |
+ |
+606,79 
+ 8100 Inss Empregador
+|
+20,00 |
+ |
+139,88 
+ 8101 RAT
+|
+ |
+ |
+24,16 
+ 9920 FGTS
+|
+ |
+ |
+55,95 
+ 
+VENCIMENTOS 
+DESCONTOS 
+LÍQUIDO 
+T O T A I S
+1.040,48 
+433,69 
+606,79 
+   
+   
+   
+   
+ Processado pela ADP
+Assinado eletronicamente por: ALEXANDRE LAURIA DUTRA - Juntado em: 16/09/2024 18:39:01 - 97090b1
+https://pje.trt15.jus.br/pjekz/validacao/24091618383323200000239863811?instancia=1
+Número do processo: 0011823-38.2023.5.15.0093
+Número do documento: 24091618383323200000239863811
+Fls.: 164
+
+
+Assinado eletronicamente por: ALEXANDRE LAURIA DUTRA - Juntado em: 16/09/2024 18:39:01 - b2d1552
+https://pje.trt15.jus.br/pjekz/validacao/24091618383613000000239863818?instancia=1
+Número do processo: 0011823-38.2023.5.15.0093
+Número do documento: 24091618383613000000239863818
+Fls.: 165

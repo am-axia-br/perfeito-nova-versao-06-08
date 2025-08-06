@@ -1,0 +1,16 @@
+6532 Prov. 13º Sal FGTS - PROV                                                                      126,73
+  6533 Prov. 13º Sal - Aj.  PROV                          43,71         112,64           7,60         316,83
+  6534 Prov. 13º Sal INSS - PROV                          12,91          33,28           2,25          93,60
+  6535 Prov. 13º Sal FGTS - PROV                           3,50           9,01           0,61          25,34
+  6621 Média 13. Salario -  OUTRO                                                                     632,82
+  6652 Media Av. Previo Com OUTRO                                                                   2.088,94
+  6900 Base Conversão Difer OUTRO           8,65           8,65           8,65           8,65           8,65                          8,65
+  6901 Base Conversão Difer OUTRO           8,65           8,65           8,65           8,65           8,65                          8,65
+  6922 Total Comissão - Fer OUTRO                                                                                                 1.727,47
+  6926 Média 13. Salario -  OUTRO                                                                                                   800,24
+  6930 Total CO FE Aviso Pr OUTRO                                                                                                   215,93
+  6962 Média AV. Previo - C OUTRO                                                                                                 2.591,21
+3523 / 01 / F / 2330403758 / * / 0 / 480 3523_YAGCARVALHO_MENU-ESBO_CONSULTA 31/10/2023 08:36:59
+ 
+Assinado eletronicamente por: ALEXANDRE LAURIA DUTRA - Juntado em: 16/09/2024 18:39:01 - d983ea7
+Fls.: 145

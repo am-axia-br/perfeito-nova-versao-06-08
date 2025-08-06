@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PjeCalc>
+  <Metadados>
+    <DataExportacao>2025-08-06 15:10:44</DataExportacao>
+    <Usuario>am-axia-br</Usuario>
+    <Versao>1.0</Versao>
+    <Timestamp>1754493044</Timestamp>
+  </Metadados>
+  <DadosPessoais>
+    <reclamante>ALEXANDRO PEREIRA DE OLIVEIRA</reclamante>
+    <cpf>333.496.028-51</cpf>
+    <reclamada>PEPSICO DO BRASIL LTDA.</reclamada>
+    <advogado>JOSE CARLOS ROCHA - OAB 136.680</advogado>
+    <data_admissao>19/09/2022</data_admissao>
+    <data_demissao>08/05/2023</data_demissao>
+    <ultimo_salario>1903.49</ultimo_salario>
+    <funcao>Promotor de vendas com caminhão (categoria D)</funcao>
+    <jornada></jornada>
+    <tempo_servico>0 anos e 7 meses</tempo_servico>
+  </DadosPessoais>
+  <Verbas>
+    <Verba>
+      <verba>Saldo de Salário</verba>
+      <periodo>1 dias (mês com 28 dias)</periodo>
+      <valor_base>1903.49</valor_base>
+      <percentual_quantidade>1 dias</percentual_quantidade>
+      <reflexos>FGTS e Multa de 40%</reflexos>
+    </Verba>
+    <Verba>
+      <verba>Aviso Prévio Indenizado</verba>
+      <periodo>30 dias + 21 dias (proporcional a 7 anos)</periodo>
+      <valor_base>1903.49</valor_base>
+      <percentual_quantidade>30 dias</percentual_quantidade>
+      <reflexos>FGTS e Multa de 40%</reflexos>
+    </Verba>
+    <Verba>
+      <verba>13º Salário Proporcional</verba>
+      <periodo>2/12 avos</periodo>
+      <valor_base>1903.49</valor_base>
+      <percentual_quantidade>2/12</percentual_quantidade>
+      <reflexos>FGTS e Multa de 40%</reflexos>
+    </Verba>
+    <Verba>
+      <verba>13º Salário Indenizado (Aviso Prévio)</verba>
+      <periodo>30 dias + 21 dias (proporcional a 7 anos)</periodo>
+      <valor_base>1903.49</valor_base>
+      <percentual_quantidade>30 dias</percentual_quantidade>
+      <reflexos>FGTS e Multa de 40%</reflexos>
+    </Verba>
+    <Verba>
+      <verba>Férias Vencidas</verba>
+      <periodo>30 dias + 1/3</periodo>
+      <valor_base>1903.49</valor_base>
+      <percentual_quantidade>30 dias</percentual_quantidade>
+      <reflexos>N/A</reflexos>
+    </Verba>
+    <Verba>
+      <verba>1/3 sobre Férias Vencidas</verba>
+      <periodo>30 dias + 1/3</periodo>
+      <valor_base>1903.49</valor_base>
+      <percentual_quantidade>30 dias</percentual_quantidade>
+      <reflexos>N/A</reflexos>
+    </Verba>
+    <Verba>
+      <verba>Férias Proporcionais</verba>
+      <periodo>10/12 avos</periodo>
+      <valor_base>1903.49</valor_base>
+      <percentual_quantidade>10/12</percentual_quantidade>
+      <reflexos>N/A</reflexos>
+    </Verba>
+    <Verba>
+      <verba>1/3 sobre Férias Proporcionais</verba>
+      <periodo>10/12 avos</periodo>
+      <valor_base></valor_base>
+      <percentual_quantidade>10/12</percentual_quantidade>
+      <reflexos>N/A</reflexos>
+    </Verba>
+    <Verba>
+      <verba>FGTS + 40%</verba>
+      <periodo>40% sobre depósitos estimados (R$ 910,80)</periodo>
+      <valor_base>R$ 910,80</valor_base>
+      <percentual_quantidade>40%</percentual_quantidade>
+      <reflexos>Multa de 40%</reflexos>
+    </Verba>
+    <Verba>
+      <verba>Multa do art. 477 da CLT</verba>
+      <periodo>1 salário base</periodo>
+      <valor_base>1903.49</valor_base>
+      <percentual_quantidade></percentual_quantidade>
+      <reflexos>N/A</reflexos>
+    </Verba>
+    <Verba>
+      <verba>Multa do art. 467 da CLT</verba>
+      <periodo>1 salário base</periodo>
+      <valor_base>1903.49</valor_base>
+      <percentual_quantidade></percentual_quantidade>
+      <reflexos>N/A</reflexos>
+    </Verba>
+    <Verba>
+      <verba>Horas Extras</verba>
+      <periodo>50% sobre horas excedentes à jornada normal. Média de 150 horas extras mensais. Requerida integração em outras verbas. Jornada alegada pelo reclamante: 07:30 às 19:00 (segunda a sexta) e 07:30 às 14:00 (sábado) com 30 minutos de intervalo.</periodo>
+      <valor_base></valor_base>
+      <percentual_quantidade></percentual_quantidade>
+      <reflexos>FGTS e Multa de 40%</reflexos>
+    </Verba>
+    <Verba>
+      <verba>Intervalo Intrajornada</verba>
+      <periodo>Integralidade do período suprimido com acréscimo de 50%, conforme OJ 307 da SDI-1 do TST. Meia hora diária com acréscimo de 50%</periodo>
+      <valor_base></valor_base>
+      <percentual_quantidade></percentual_quantidade>
+      <reflexos>FGTS e Multa de 40%</reflexos>
+    </Verba>
+    <Verba>
+      <verba>Dano Moral</verba>
+      <periodo>R$ 20.000,00</periodo>
+      <valor_base>R$ 20.000,00</valor_base>
+      <percentual_quantidade></percentual_quantidade>
+      <reflexos>N/A</reflexos>
+    </Verba>
+    <Verba>
+      <verba>Indenização por Cancelamento de Plano de Saúde</verba>
+      <periodo>Plano de saúde cancelado indevidamente em Março/2025</periodo>
+      <valor_base></valor_base>
+      <percentual_quantidade></percentual_quantidade>
+      <reflexos>N/A</reflexos>
+    </Verba>
+  </Verbas>
+  <ParametrosCalculo>
+    <correcao_monetaria>IPCA-E</correcao_monetaria>
+    <juros_mora>SELIC</juros_mora>
+    <inss_reclamante>Tabela progressiva</inss_reclamante>
+    <inss_patronal>23%</inss_patronal>
+    <inss_terceiros>[NÃO INFORMADO]</inss_terceiros>
+    <honorarios>15%</honorarios>
+  </ParametrosCalculo>
+  <ResultadoLiquidacao>
+    <valor_bruto_total>R$ 64.524,00 (estimativa baseada no processo)</valor_bruto_total>
+    <descontos_ir_inss>R$ 9.678,60 (estimativa aproximada)</descontos_ir_inss>
+    <liquido_devido_reclamante>R$ 54.845,40 (estimativa líquida)</liquido_devido_reclamante>
+  </ResultadoLiquidacao>
+  <BasesTecnicas>
+    <prescricao>Conforme legislação trabalhista</prescricao>
+    <fgts>Aplicação padrão conforme CLT</fgts>
+    <formulas/>
+  </BasesTecnicas>
+  <OutrosDados>
+    <verbas_art_477>1 salário base</verbas_art_477>
+    <pjecalc_blocos>
+      <bloco1_dados_cadastrais>
+        <processo>0011823-38.2023.5.15.0093</processo>
+        <reclamante>ALEXANDRO PEREIRA DE OLIVEIRA</reclamante>
+        <cpf>333.496.028-51</cpf>
+        <reclamada>PEPSICO DO BRASIL LTDA.</reclamada>
+        <data_ajuizamento>24/10/2023</data_ajuizamento>
+        <periodo_contratual>19/09/2022 a 08/05/2023</periodo_contratual>
+        <cidade>Campinas</cidade>
+        <cidade_uf>SP</cidade_uf>
+        <salario_base>1903.49</salario_base>
+        <valor_causa>64524,00</valor_causa>
+        <fase_calculo>Provisão Inicial</fase_calculo>
+        <advogado>JOSE CARLOS ROCHA - OAB 136.680</advogado>
+        <funcao>Promotor de vendas com caminhão (categoria D)</funcao>
+        <jornada></jornada>
+      </bloco1_dados_cadastrais>
+      <bloco2_afastamentos type="array"/>
+      <bloco3_verbas_apurar type="array">
+        <item>
+          <verba>Saldo de Salário</verba>
+          <parametro>1 dias (mês com 28 dias)</parametro>
+          <valor_base>1903.49</valor_base>
+          <percentual_quantidade>1 dias</percentual_quantidade>
+          <reflexos>FGTS e Multa de 40%</reflexos>
+        </item>
+        <item>
+          <verba>Aviso Prévio Indenizado</verba>
+          <parametro>30 dias + 21 dias (proporcional a 7 anos)</parametro>
+          <valor_base>1903.49</valor_base>
+          <percentual_quantidade>30 dias</percentual_quantidade>
+          <reflexos>FGTS e Multa de 40%</reflexos>
+        </item>
+        <item>
+          <verba>13º Salário Proporcional</verba>
+          <parametro>2/12 avos</parametro>
+          <valor_base>1903.49</valor_base>
+          <percentual_quantidade>2/12</percentual_quantidade>
+          <reflexos>FGTS e Multa de 40%</reflexos>
+        </item>
+        <item>
+          <verba>13º Salário Indenizado (Aviso Prévio)</verba>
+          <parametro>30 dias + 21 dias (proporcional a 7 anos)</parametro>
+          <valor_base>1903.49</valor_base>
+          <percentual_quantidade>30 dias</percentual_quantidade>
+          <reflexos>FGTS e Multa de 40%</reflexos>
+        </item>
+        <item>
+          <verba>Férias Vencidas</verba>
+          <parametro>30 dias + 1/3</parametro>
+          <valor_base>1903.49</valor_base>
+          <percentual_quantidade>30 dias</percentual_quantidade>
+          <reflexos>N/A</reflexos>
+        </item>
+        <item>
+          <verba>1/3 sobre Férias Vencidas</verba>
+          <parametro>30 dias + 1/3</parametro>
+          <valor_base>1903.49</valor_base>
+          <percentual_quantidade>30 dias</percentual_quantidade>
+          <reflexos>N/A</reflexos>
+        </item>
+        <item>
+          <verba>Férias Proporcionais</verba>
+          <parametro>10/12 avos</parametro>
+          <valor_base>1903.49</valor_base>
+          <percentual_quantidade>10/12</percentual_quantidade>
+          <reflexos>N/A</reflexos>
+        </item>
+        <item>
+          <verba>1/3 sobre Férias Proporcionais</verba>
+          <parametro>10/12 avos</parametro>
+          <valor_base></valor_base>
+          <percentual_quantidade>10/12</percentual_quantidade>
+          <reflexos>N/A</reflexos>
+        </item>
+        <item>
+          <verba>FGTS + 40%</verba>
+          <parametro>40% sobre depósitos estimados (R$ 910,80)</parametro>
+          <valor_base>R$ 910,80</valor_base>
+          <percentual_quantidade>40%</percentual_quantidade>
+          <reflexos>N/A</reflexos>
+        </item>
+        <item>
+          <verba>Multa do art. 477 da CLT</verba>
+          <parametro>1 salário base</parametro>
+          <valor_base>1903.49</valor_base>
+          <percentual_quantidade></percentual_quantidade>
+          <reflexos>N/A</reflexos>
+        </item>
+        <item>
+          <verba>Multa do art. 467 da CLT</verba>
+          <parametro>1 salário base</parametro>
+          <valor_base>1903.49</valor_base>
+          <percentual_quantidade></percentual_quantidade>
+          <reflexos>N/A</reflexos>
+        </item>
+        <item>
+          <verba>Horas Extras</verba>
+          <parametro>50% sobre horas excedentes à jornada normal. Média de 150 horas extras mensais. Requerida integração em outras verbas. Jornada alegada pelo reclamante: 07:30 às 19:00 (segunda a sexta) e 07:30 às 14:00 (sábado) com 30 minutos de intervalo.</parametro>
+          <valor_base></valor_base>
+          <percentual_quantidade></percentual_quantidade>
+          <reflexos>FGTS e Multa de 40%</reflexos>
+        </item>
+        <item>
+          <verba>Intervalo Intrajornada</verba>
+          <parametro>Integralidade do período suprimido com acréscimo de 50%, conforme OJ 307 da SDI-1 do TST. Meia hora diária com acréscimo de 50%</parametro>
+          <valor_base></valor_base>
+          <percentual_quantidade></percentual_quantidade>
+          <reflexos>FGTS e Multa de 40%</reflexos>
+        </item>
+        <item>
+          <verba>Dano Moral</verba>
+          <parametro>R$ 20.000,00</parametro>
+          <valor_base>R$ 20.000,00</valor_base>
+          <percentual_quantidade></percentual_quantidade>
+          <reflexos>N/A</reflexos>
+        </item>
+        <item>
+          <verba>Indenização por Cancelamento de Plano de Saúde</verba>
+          <parametro>Plano de saúde cancelado indevidamente em Março/2025</parametro>
+          <valor_base></valor_base>
+          <percentual_quantidade></percentual_quantidade>
+          <reflexos>N/A</reflexos>
+        </item>
+      </bloco3_verbas_apurar>
+      <bloco4_encargos>
+        <custas>A ser calculado na liquidação</custas>
+        <honorarios>15%</honorarios>
+        <inss_reclamante>Tabela progressiva</inss_reclamante>
+        <inss_patronal>23%</inss_patronal>
+        <inss_terceiros>[NÃO INFORMADO]</inss_terceiros>
+        <correcao_monetaria>IPCA-E</correcao_monetaria>
+        <juros>SELIC</juros>
+      </bloco4_encargos>
+      <bloco5_liquidacao>
+        <atualizar_ate>24/10/2023</atualizar_ate>
+        <formato_exportacao>PDF e arquivo .PJC</formato_exportacao>
+        <valor_bruto>R$ 64.524,00</valor_bruto>
+        <descontos>R$ 9.678,60</descontos>
+        <valor_liquido>R$ 54.845,40</valor_liquido>
+      </bloco5_liquidacao>
+    </pjecalc_blocos>
+    <caminho_relatorio>/app/relatorios/relatorio_0011823_38_2023_5_15_0093.md</caminho_relatorio>
+    <verbas_fgts>40% sobre depósitos estimados (R$ 910,80)</verbas_fgts>
+    <verbas_art_467>1 salário base</verbas_art_467>
+  </OutrosDados>
+  <ObservacoesGerais>✅ 
+- Processo: 0011823-38.2023.5.15.0093
+- Reclamante: ALEXANDRO PEREIRA DE OLIVEIRA
+- Reclamadas: PEPSICO DO BRASIL LTDA.
+- Vara/UF: 6ª Vara do Trabalho de Campinas/SP
+- Data de Ajuizamento: 24/10/2023
+- Valor da Causa: R$ 64.524,00
+- Período Contratual Alegado: 19/09/2022 a 08/05/2023
+- Função: Promotor de vendas com caminhão (categoria D)
+- Salário Base Informado: R$ 1.903,49
+- Fase Atual: Provisão Inicial
+
+✅ **Verbas Pleiteadas (Petição Inicial)**
+- Verbas Rescisórias: Saldo de Salário (8 dias), Aviso Prévio Indenizado (30 dias), 13º Salário Proporcional (5/12), Férias Vencidas (1 período) + 1/3, Férias Proporcionais (7/12) + 1/3, FGTS + 40%
+- Multa Art. 477 CLT: Atraso na rescisão
+- Multa Art. 467 CLT: Verbas rescisórias incontroversas não pagas
+- FGTS + 40%: Depósitos faltantes
+- Dano Moral: R$ 8.000,00 - Inércia da reclamada, situação vexatória, cancelamento do plano de saúde, falta de empatia e impossibilidade de concluir tratamento.
+- Honorários Advocatícios: 15%
+
+✅ **Atualização Monetária e Parâmetros**
+- Índice Monetário: IPCA-E (pré-judicial) e SELIC (pós-ajuizamento)
+- Juros de Mora: SELIC (após ajuizamento)
+- INSS – Terceiros: [NÃO INFORMADO]
+
+✅ **Revisão Final – Quadro para Cálculo**
+| Verba | Parâmetro | Reflexos |
+|---|---|---| 
+| Saldo de Salário | 8 dias | FGTS e Multa de 40% |
+| Aviso Prévio Indenizado | 30 dias | FGTS e Multa de 40% |
+| 13º Salário Proporcional | 5/12 avos | FGTS e Multa de 40% |
+| 13º Salário Indenizado (Aviso Prévio) | 1/12 avos | FGTS e Multa de 40% |
+| Férias Vencidas | 1 período | N/A |
+| 1/3 sobre Férias Vencidas | 1 período | N/A |
+| Férias Proporcionais | 7/12 avos | N/A |
+| 1/3 sobre Férias Proporcionais | 7/12 avos | N/A |
+| FGTS + 40% | 8,33% sobre os salários + aviso prévio | N/A |
+| Multa do art. 477 da CLT | Atraso na rescisão | N/A |
+| Multa do art. 467 da CLT | Verbas incontroversas não pagas | N/A |
+| Horas Extras | Conforme jornada alegada | FGTS e Multa de 40% |
+| Intervalo Intrajornada | Conforme período suprimido | FGTS e Multa de 40% |
+| Dano Moral | R$ 8.000,00 | N/A |
+| Indenização por Cancelamento de Plano de Saúde | R$ 8.000,00 | N/A |
+
+✅ **Modelo Laudo Técnico para PJe-Calc (com BLOCOS 1 a 5)**
+- BLOCO 1 – Dados Cadastrais: A preencher com os dados consolidados.
+- BLOCO 2 – Afastamentos: Nenhum afastamento informado.
+- BLOCO 3 – Verbas a Apurar: Configurar a tabela com as verbas, parâmetros e reflexos indicados acima.
+- BLOCO 4 – Honorários / Custas / Encargos: Honorários advocatícios de 15%. Custas e encargos a calcular conforme legislação vigente.
+- BLOCO 5 – Liquidação e Impressão: A ser preenchido após os cálculos e conferência.
+
+Processado por am-axia-br em 2025-08-05 02:52:08 UTC.</ObservacoesGerais>
+</PjeCalc>

@@ -1,0 +1,15 @@
+8216 Base FGTS - Dif  Dis OUTRO                                                                     355,13                        355,13
+  9949 Líquido de Adiantame OUTRO                        295,90                                                                     295,90
+  9950 Líquido Mensal       OUTRO                        606,79         586,10       1.820,77       2.050,38                      5.064,04
+  9955 LÍQUIDO ADIANTAMENTO OUTRO                                                      246,39                                       246,39
+  9957 Líquido 13. Sálario  OUTRO                                                                                    383,50         383,50
+  9958 Líquido Adiantamento OUTRO                                     1.486,24       1.486,24       1.486,24                      4.458,72
+        Dependentes                       Agosto       Setembro       Oututbro       Novembro       Dezembro      Dec.Terc.          Total
+        ------------------------- -------------- -------------- -------------- -------------- -------------- -------------- --------------
+        Dependentes IRRF                                                  1,00           1,00           1,00           1,00
+        Deduções Depend. IRRF                                           189,59         189,59         189,59         189,59         758,36
+        Evolução Salarial                              1.748,52       1.748,52       1.748,52       1.903,49       1.903,49  --------------
+3523 / 01 / F / 2330403776 / * / 0 / 480 3523_YAGCARVALHO_MENU-ESBO_CONSULTA 31/10/2023
+08:37:40
+Assinado eletronicamente por: ALEXANDRE LAURIA DUTRA - Juntado em: 16/09/2024 18:39:01 - d983ea7
+Fls.: 141

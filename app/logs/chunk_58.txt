@@ -1,0 +1,28 @@
+6406 Prov.Férias - Ajuste PROV                                                        83,64         169,35                        252,99
+  6407 Prov.Férias INSS - A PROV                                                        24,47          49,54                         74,01
+  6408 Prov.Férias FGTS - A PROV                                                         6,69          13,55                         20,24
+  6412 Prov.Férias - Saldo  PROV                                        219,01         605,30       1.161,97                      1.986,28
+  6413 Prov.Férias INSS - S PROV                                         64,07         177,08         339,93                        581,08
+  6414 Prov.Férias FGTS - S PROV                                         17,52          48,42          92,96                        158,90
+  6521 Prov. 13º Sal INSS - PROV                                         48,05         132,81                                       180,86
+  6522 Prov. 13º Sal FGTS - PROV                                         13,14          36,32                                        49,46
+  6523 Prov. 13º Sal - Acm. PROV                                        164,25         453,97                                       618,22
+  6524 Prov. 13º Sal - Acm. PROV                                                       164,25         453,97                        618,22
+  6525 Prov. 13º Sal - Valo PROV                                        164,25         226,99         290,49                        681,73
+  6526 Prov. 13º Sal INSS - PROV                                         48,05          66,40          84,98                        199,43
+  6527 Prov. 13º Sal FGTS - PROV                                         13,14          18,16          23,24                         54,54
+  6528 Prov. 13º Sal INSS - PROV                                                        48,05         132,81                        180,86
+  6529 Prov. 13º Sal FGTS - PROV                                                        13,14          36,32                         49,46
+  6530 Prov. 13º Sal - Baix PROV                                                                      871,48                        871,48
+  6531 Prov. 13º Sal INSS - PROV                                                                      254,95                        254,95
+  6532 Prov. 13º Sal FGTS - PROV                                                                       69,72                         69,72
+  6533 Prov. 13º Sal - Aj.  PROV                                                        62,73         127,02                        189,75
+  6534 Prov. 13º Sal INSS - PROV                                                        18,36          37,16                         55,52
+  6535 Prov. 13º Sal FGTS - PROV                                                         5,02          10,16                         15,18
+  6621 Média 13. Salario -  OUTRO                                                                                    243,83         243,83
+  6900 Base Conversão Difer OUTRO                         15,90           7,95          15,90           8,65           7,95          56,35
+  6901 Base Conversão Difer OUTRO                         15,90           7,95          15,90           8,65           7,95          56,35
+  7318 Percentual Salário V OUTRO                                        87,50         104,16          25,00                        216,66
+  7329 Class Cargo PLR      OUTRO                          1,00           1,00           1,00           1,00                          4,00
+  7338 Código Estabelecimen OUTRO                     10.048,00      10.048,00      10.048,00      10.048,00                     40.192,00
+  7339 Código CR            OUTRO                     32.210,00      32.210,00      32.210,00      32.210,00                    128.840,00

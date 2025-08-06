@@ -1,0 +1,28 @@
+6231 Total Comissão - Fer OUTRO                                                                                                   174,08
+  6400 Prov.Férias-Acum. Mê PROV                                                                                                 10.699,18
+  6401 Prov.Férias INSS-Acu PROV                                                                                                  3.157,46
+  6402 Prov.Férias FGTS-Acu PROV                                                                                                    855,94
+  6403 Prov.Férias - Valor  PROV                                                                                                  2.173,36
+  6404 Prov.Férias INSS - V PROV                                                                                                    642,06
+  6405 Prov.Férias FGTS - V PROV                                                                                                    173,87
+  6406 Prov.Férias - Ajuste PROV                                                                                                    758,57
+  6407 Prov.Férias INSS - A PROV                                                                                                    227,45
+  6408 Prov.Férias FGTS - A PROV                                                                                                     60,67
+  6409 Prov.Férias - Baixas PROV                                                                                                  3.992,43
+  6410 Prov.Férias INSS - B PROV                                                                                                  1.179,46
+  6411 Prov.Férias FGTS - B PROV                                                                                                    319,39
+  6412 Prov.Férias - Saldo  PROV                                                                                                  9.537,21
+  6413 Prov.Férias INSS - S PROV                                                                                                  2.817,53
+  6414 Prov.Férias FGTS - S PROV                                                                                                    762,98
+  6415 Prov.Férias - Ajuste PROV                                                                                                    101,47
+  6416 Prov.Férias INSS - A PROV                                                                                                     29,98
+  6417 Prov.Férias FGTS - A PROV                                                                                                      8,11
+  6521 Prov. 13º Sal INSS - PROV                                                                                                    868,67
+  6522 Prov. 13º Sal FGTS - PROV                                                                                                    235,24
+  6523 Prov. 13º Sal - Acm. PROV                                                                                                  2.940,43
+  6524 Prov. 13º Sal - Acm. PROV                                                                                                  2.940,43
+  6525 Prov. 13º Sal - Valo PROV                                                                                                  1.103,37
+  6526 Prov. 13º Sal INSS - PROV                                                                                                    325,96
+  6527 Prov. 13º Sal FGTS - PROV                                                                                                     88,27
+  6528 Prov. 13º Sal INSS - PROV                                                                                                    868,67
+  6529 Prov. 13º Sal FGTS - PROV                                                                                                    235,24

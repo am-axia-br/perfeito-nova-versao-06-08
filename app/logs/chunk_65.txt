@@ -1,0 +1,40 @@
+PEPSICO DO BRASIL LTDA
+Ficha Financeira
+Página
+31.565.104/0001-77
+2
+ Ano Competência : 2023                                                                                                                     
+ Estabelecimento :        010048   PEPSICO DO BRASIL LTDA
+ C.R.            :     BR32210           CAMPINAS DTS
+ Empregado       :      90329      ALEXANDRO PEREIRA DE OLIVEIRA
+                                                                     Dt.Admissão : 19/09/2022
+                                                                     Dt.Rescisão : 08/05/2023
+Código Denominação          Clas.        Janeiro      Fevereiro          Março          Abril           Maio          Junho          Julho
+------ -------------------- ----- -------------- -------------- -------------- -------------- -------------- -------------- --------------
+  1406 IRRF Retenção Remun  OUTRO         146,80          90,21         149,95         158,56
+  1412 IRRF Deduc INSS Remu OUTRO         373,11         320,55         376,53         385,87          38,07                        123,42
+  1414 IRRF Deduc INSS 13°  OUTRO                                                                     122,77                         18,83
+  1430 IRRF Deduc Priv Saúd OUTRO                         18,45          91,20          85,94
+  1440 IRRF Rend NTrib Ind/ OUTRO                                                                   9.888,35                      1.004,52
+  1452 IRRF Rend NTrib Outr OUTRO       1.617,97       1.617,97       1.617,97       1.617,97       1.617,97
+  1455 IRRF Rend NTrib Dive OUTRO       1.736,33       1.736,33       1.736,33       1.736,33       2.102,17
+  1500 IRRF CR Mensal/Féria OUTRO         146,80          90,21         149,95         158,56
+  3810 Salário (Informação) OUTRO       1.903,49       1.903,49       1.903,49       1.903,49
+  3820 Qtde DSR HR          OUTRO           6,00           5,00           4,00           7,00           2,00                          2,00
+  3821 Qtde Dias úteis HR   OUTRO          25,00          23,00          27,00          23,00           6,00                          6,00
+  3822 Qtde DSR (Mês Anteri OUTRO           4,00           6,00           5,00           4,00           7,00                          2,00
+  3823 Qtde Dias úteis (Mês OUTRO          27,00          25,00          23,00          27,00          23,00                          6,00
+  3902 Assist. Médica Unime OUTRO         274,74         274,74         274,74         274,74
+  3903 Assist. Médica Unime OUTRO         549,48         549,48         549,48         549,48
+  3914 Saldo Vida Link      OUTRO         380,70         380,70         380,70         380,70
+  3943 Seg. Vida - Capital  OUTRO     142.435,25     142.435,25     142.435,25     142.435,25     142.435,25
+  3960 Base desconto VT     OUTRO       1.903,49       1.903,49       1.903,49       1.903,49         507,63
+  4002 Salário Composto     OUTRO       1.903,49       1.903,49       1.903,49       1.903,49       1.903,49                      1.903,49
+  4006 Margem Emprestimo    OUTRO                                     1.131,40       1.090,49
+  4095 Base Salário Variáve OUTRO       2.003,22       1.573,40       2.027,63       2.094,35                                     1.506,80
+  4096 Média Salário Variáv OUTRO       1.350,10       1.387,32       1.478,79       1.555,73       1.555,73
+  4272 Média Comissão - Fer OUTRO         675,88         749,71       1.019,03       1.218,55
+  4274 Média 13. Salario -  OUTRO          55,65         198,70         467,02         632,82
+  4359 Einstein Conecta     OUTRO           7,50           7,50           7,50           7,50
+  4826 Campo 26 GRFC (Mês R OUTRO                                                                   1.774,95
+  4827 Campo 27 GRFC (Aviso OUTRO                                                                   4.309,26

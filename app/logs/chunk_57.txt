@@ -1,0 +1,35 @@
+PEPSICO DO BRASIL LTDA
+Ficha Financeira
+Página
+31.565.104/0001-77
+2
+ Ano Competência : 2022                                                                                                                     
+ Estabelecimento :        010048   PEPSICO DO BRASIL LTDA
+ C.R.            :     BR32210           CAMPINAS DTS
+ Empregado       :      90329      ALEXANDRO PEREIRA DE OLIVEIRA
+                                                                     Dt.Admissão : 19/09/2022
+                                                                     Dt.Rescisão : 08/05/2023
+Código Denominação          Clas.         Agosto       Setembro        Outubro       Novembro       Dezembro      Dec.Terc.          Total
+------ -------------------- ----- -------------- -------------- -------------- -------------- -------------- -------------- --------------
+  4359 Einstein Conecta     OUTRO                         15,00          15,00          15,00          15,00                         60,00
+  4636 FGTS - Antec. de 13º OUTRO                                                                                     19,71          19,71
+  4643 Base FGTS Adto. 13º  OUTRO                                                      492,78                                       492,78
+  4646 Base FGTS Dec. Terc. OUTRO                                                                     434,57         434,57         869,14
+  4663 FGTS ADTO. 13º SAL.  OUTRO                                                       39,42                                        39,42
+  4666 FGTS DEC. TERC. SAL. OUTRO                                                                      34,77          34,77          69,54
+  5322 Seguros - Custo Empr OUTRO                          7,71           7,71           7,71           7,71                         30,84
+  5615 Vale Alimentação - C OUTRO                        236,72         473,44         473,44         473,44                      1.657,04
+  6014 Avos de PLR          OUTRO                                         1,00           2,00           3,00                          6,00
+  6060 Avos LN - Lic Não Re OUTRO                          0,01           1,00           2,00           3,00                          6,01
+  6318 Total Comissão - Adt OUTRO                                                       55,63         395,61                        451,24
+  6321 Valor Dif. 13 Salári OUTRO                                                                      38,74                         38,74
+  6323 Valor Dif Med. 13 Sa OUTRO                                                                     151,78                        151,78
+  6400 Prov.Férias-Acum. Mê PROV                                                       219,01         605,30                        824,31
+  6401 Prov.Férias INSS-Acu PROV                                                        64,07         177,08                        241,15
+  6402 Prov.Férias FGTS-Acu PROV                                                        17,52          48,42                         65,94
+  6403 Prov.Férias - Valor  PROV                                        219,01         302,65         387,32                        908,98
+  6404 Prov.Férias INSS - V PROV                                         64,07          88,54         113,31                        265,92
+  6405 Prov.Férias FGTS - V PROV                                         17,52          24,21          30,99                         72,72
+  6406 Prov.Férias - Ajuste PROV                                                        83,64         169,35                        252,99
+  6407 Prov.Férias INSS - A PROV                                                        24,47          49,54                         74,01
+  6408 Prov.Férias FGTS - A PROV                                                         6,69          13,55                         20,24

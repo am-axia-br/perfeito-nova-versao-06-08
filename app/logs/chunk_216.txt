@@ -1,0 +1,111 @@
+EMPRESA
+ÁREA DE RH
+UNIDADE ORGANIZACIONAL
+HORÁRIO
+CONTA CORRENTE
+ Gerdau Açominas S.A.
+BR12 GACO - OURO BRANCO
+F604
+01084625
+ DESCRIÇÃO DA RUBRICA
+QUANTIDADE
+VALOR UNITÁRIO
+PARCELAS REMUNER.
+DESCONTOS
+SALDO DEVEDOR
+ Provisão Contr. INSS rec.
+     0,00 
+           642,34 
+ Salário mensal
+    16,00 
+         6.602,67 
+ Adicional Periculosidade
+   117,33 
+         1.980,80 
+ Férias no Mês
+    14,00 
+         5.777,33 
+ Férias no Mês 1/3
+    14,00 
+         1.925,78 
+ Médias Férias no mês
+    14,00 
+           288,87 
+ Médias Férias 1/3 no mês
+    14,00 
+            96,29 
+ Férias mês seg
+    16,00 
+         6.602,67 
+ Férias 1/3 mês seg
+    16,00 
+         2.200,89 
+ Médias Férias mês seg
+    16,00 
+           330,13 
+ Médias Férias 1/3 mês seg
+    16,00 
+           110,04 
+ Contr. INSS Remuneração
+    11,00 
+           642,34 
+ IRRF - Férias recálculo
+    27,50 
+           183,65 
+ Tributo IRRF
+    27,50 
+         1.221,03 
+ Desc Férias Adiantadas
+     0,00 
+        16.664,20 
+ Provisão Contr. INSS ded
+     0,00 
+           342,58 
+ Prêmio Seguro Vida Grupo
+     0,00 
+           101,65 
+ Refeição
+    15,00 
+            24,12 
+ Contrib Básica até Limite
+     3,00 
+           170,35 
+ Contrib Básica acima Limi
+     7,00 
+           469,12 
+ Metlife - Mensalidade
+     0,00 
+            12,81 
+ SAL. CONTRIB. INSS
+TRIBUTÁVEL FGTS
+FGTS RECOLHIMENTO 8%
+ TOTAL REMUNERAÇÃO
+TOTAL DOS DESCONTOS
+TOT. SALDO DEVEDOR
+         16.671,74         16.671,74           1.333,74         26.557,81         19.831,85               0,00 
+ TRIBUTÁVEL IMP. RENDA
+DEP I.R.
+SAL. CONTRATUAL
+ HORAS NÃO TRABALHADAS - VALOR
+LIQUIDO A RECEBER
+          8.269,22       000           12.380,00                   0,00                          6.725,96 
+ 
+O QUANTO VOCÊ GANHA
+ 
+É UM ASSUNTO PESSOAL
+ 
+SÓ A VOCÊ INTERESSA
+MÊS/ANO FOLHA PGTO
+NOME DO EMPREGADO
+NÚMERO PESSOAL
+                             MARÇO/2019
+WALTER PEREIRA DE MOURA
+   37073218
+DEMONSTRATIVO DE PROVENTOS E DESCONTOS
+ID. 380bde5 - Pág. 51
+Assinado eletronicamente por: FREDERICO NOGUEIRA FERES - 24/06/2020 16:58 - 380bde5
+https://pje.trt3.jus.br/segundograu/Processo/ConsultaDocumento/listView.seam?nd=20062416550348200000066981075
+Número do processo: ROT 0010269-29.2020.5.03.0054
+Número do documento: 20062416550348200000066981075
+Assinado eletronicamente por: RAQUEL LEÔNCIO GUIMARÃES - Juntado em: 21/07/2022 12:39:36 - e951ceb
+Fls.: 334

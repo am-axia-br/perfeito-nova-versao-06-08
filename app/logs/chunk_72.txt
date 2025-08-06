@@ -1,0 +1,28 @@
+9921 Base FGTS            BASE                                                                                                 21.821,69
+  9924 Base FGTS 13o.Sal.   BASE                                                                                                  1.793,43
+  9961 Base INSS 13Salário  BASE                                                                                                  3.377,58
+  4631 FGTS- Art 18 - Salár ENCAR                                                                                                 1.095,23
+  4635 FGTS - Art.18 - 13o. ENCAR                                                                                                    57,38
+  8100 Inss Empregador      ENCAR                                                                                                 3.824,09
+  8101 RAT                  ENCAR                                                                                                   715,57
+  8102 Salario Educacao     ENCAR                                                                                                   478,01
+  8103 Incra                ENCAR                                                                                                    38,23
+  8106 Senac                ENCAR                                                                                                   191,21
+  8107 Sesc                 ENCAR                                                                                                   286,81
+  8108 Sebrae               ENCAR                                                                                                   114,73
+  9920 FGTS                 ENCAR                                                                                                 1.745,74
+  9923 FGTS - 13o. Salário  ENCAR                                                                                                   143,47
+  0020 Armazena Salário     OUTRO                                                                                                 9.517,45
+  0029 Base Salário Família OUTRO                                                                                                19.120,42
+  0150 Antepenúltimo Salári OUTRO                                                                                                 3.476,89
+  0151 Penúltimo Salário -  OUTRO                                                                                                 3.931,12
+  0152 Último Salário - TRC OUTRO                                                                                                 3.997,84
+  0155 Remun Para Fins Resc OUTRO                                                                                                 3.806,98
+  0156 Dias Trabalhados no  OUTRO                                                                                                     8,00
+  0157 Avos Direito p/ Féri OUTRO                                                                                                    16,00
+  0167 Quantidade de Avos 1 OUTRO                                                                                                     8,00
+  0170 Antepenúltimo Sal-Se OUTRO                                                                                                 3.476,89
+  0171 Penúltimo Sal-Seguro OUTRO                                                                                                 3.931,12
+  0172 Último Sal-Seguro De OUTRO                                                                                                 3.997,84
+  0457 Juros/Multa GRFC - R OUTRO                                                                                                    28,12
+  1151 Margem Para Concessã OUTRO                                                                                                 1.725,02

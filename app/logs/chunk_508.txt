@@ -1,0 +1,164 @@
+Alíquota (B)
+Total
+Devido Terceiros (C)
+Índice Correção
+Salário Devido (A)
+Juros
+Ocorrência
+Valor Corrigido
+Multa
+01/2020
+1.594,61
+5,8000 %
+1,000000000
+92,49
+12,69
+105,18
+92,49
+-
+Observação:
+C = A x B
+Total
+41.467,98
+53.838,30
+12.370,32
+0,00
+Demonstrativo de Multas / Indenizações
+ Nome: MULTAS / INDENIZAÇÕES DEVIDAS AO RECLAMANTE
+ Valores Calculados
+Valor (C)
+Alíquota (B)
+Descrição
+Ocorrência
+Base (A)
+C=(A x B)
+Composição de Base: (Valor Corrigido da Causa) x 2,00%
+30/09/2022
+MULTA DE 2% A EMBARGANTE
+2,00 %
+20.087,16
+1.004.357,89
+20.087,16
+Total
+Demonstrativo de Honorários
+ Nome: HONORÁRIOS DEVIDOS PELO RECLAMANTE
+ Valores Informados
+Ocorrência
+Credor
+Valor (A)
+Índice correção (B)
+Total (D)
+Valor corrigido
+Juros (C)
+Descrição
+D = [(A x B) + C]
+29/05/2020
+6.261,09
+1,123600213
+7.034,96
+-
+7.034,96
+HONORÁRIOS DE SUCUMBÊNCIA
+ADVOGADO DA RECLAMADA
+7.034,96
+Total
+ Nome: HONORÁRIOS DEVIDOS PELO RECLAMADO
+ Valores Informados
+Ocorrência
+Credor
+Valor (A)
+Índice correção (B)
+Total (D)
+Valor corrigido
+Juros (C)
+Descrição
+D = [(A x B) + C]
+21/06/2021
+2.500,00
+1,107200000
+2.768,00
+-
+2.768,00
+HONORÁRIOS PERICIAIS - ENGENHEIRO
+PERÍCIA DE PERICULOSIDADE
+ Valores Calculados
+C=(A x B)
+Valor (C)
+Alíquota (B)
+Descrição
+Credor
+Ocorrência
+Base (A)
+ Composição de Base: (Bruto) x 5,00%
+30/09/2022
+1.228.491,62
+5,00 %
+61.424,58
+HONORÁRIOS DE SUCUMBÊNCIA
+ADVOGADO DO RECLAMANTE
+64.192,58
+Total
+Demonstrativo de Imposto de Renda
+Rendimentos Recebidos Acumuladamente Relativos a Anos-Calendário Anteriores ao do Recebimento - 29/05/2015 a 13/01/2020
+ Nome: TRIBUTAÇÃO EXCLUSIVA
+13º SALÁRIO SOBRE ADICIONAL DE PERICULOSIDADE 30% + 13º SALÁRIO SOBRE ADICIONAL DE SOBREAVISO + 13º SALÁRIO SOBRE HORAS EXTRAS 50% + 13º SALÁRIO SOBRE HORAS EXTRAS
+HOME OFFICE + 13º SALÁRIO SOBRE INTERVALO INTRAJORNADA ATÉ 10/11/2017 + 13º SALÁRIO SOBRE REPOUSO SEMANAL REMUNERADO EM DOBRO + ADICIONAL DE PERICULOSIDADE 30%
++ ADICIONAL DE SOBREAVISO + FÉRIAS + 1/3 SOBRE ADICIONAL DE PERICULOSIDADE 30% + FÉRIAS + 1/3 SOBRE ADICIONAL DE SOBREAVISO + FÉRIAS + 1/3 SOBRE HORAS EXTRAS 50% +
+FÉRIAS + 1/3 SOBRE HORAS EXTRAS HOME OFFICE + FÉRIAS + 1/3 SOBRE INTERVALO INTRAJORNADA ATÉ 10/11/2017 + FÉRIAS +1/3 SOBRE REPOUSO SEMANAL REMUNERADO EM DOBRO +
+HORAS EXTRAS 50% + HORAS EXTRAS HOME OFFICE + INTERVALO INTRAJORNADA ATÉ 10/11/2017 + REPOUSO SEMANAL REMUNERADO  SOBRE ADICIONAL DE SOBREAVISO + REPOUSO
+Pág. 47 de 48
+Cálculo liquidado por offline na versão 2.10.2 em 02/09/2022 às 18:54:03.
+Número do processo: 0010665-35.2022.5.03.0054
+Número do documento: 22090221445095700000096112663
+https://pje.trt3.jus.br/segundograu/Processo/ConsultaDocumento/listView.seam?nd=22090221445095700000096112663
+Assinado eletronicamente por: LUANA DE OLIVEIRA SARAIVA - 02/09/2022 21:45:06 - 9aabe87
+ID. 9aabe87 - Pág. 47
+Fls.: 671
+
+
+SEMANAL REMUNERADO E FERIADO SOBRE HORAS EXTRAS 50% + REPOUSO SEMANAL REMUNERADO E FERIADO SOBRE HORAS EXTRAS HOME OFFICE + REPOUSO SEMANAL REMUNERADO
+E FERIADO SOBRE INTERVALO INTRAJORNADA ATÉ 10/11/2017 + REPOUSO SEMANAL REMUNERADO EM DOBRO
+Juros
+Verbas
+Contribuição
+Social
+Previdência
+Privada
+Pensão
+Alimentícia
+Honorários
+Dependentes
+Aposentado
+> 65 anos
+Base
+Faixa
+Alíquota
+Dedução
+Devido
+-
+2.858,18
+0,00
+0,00
+5.057,82
+-
+-
+875.314,10
+a partir de
+293.874,85
+27,50 %
+54.769,68
+185.941,70
+883.230,10
+Quant. de
+Meses
+63
+185.941,70
+Total Devido
+Pág. 48 de 48
+Cálculo liquidado por offline na versão 2.10.2 em 02/09/2022 às 18:54:03.
+Número do processo: 0010665-35.2022.5.03.0054
+Número do documento: 22090221445095700000096112663
+https://pje.trt3.jus.br/segundograu/Processo/ConsultaDocumento/listView.seam?nd=22090221445095700000096112663
+Assinado eletronicamente por: LUANA DE OLIVEIRA SARAIVA - 02/09/2022 21:45:06 - 9aabe87
+ID. 9aabe87 - Pág. 48
+Fls.: 672

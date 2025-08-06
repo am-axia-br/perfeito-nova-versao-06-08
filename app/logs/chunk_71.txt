@@ -1,0 +1,28 @@
+2880 13Sal Proporcional   PGTO                                                                                                    634,50
+  2881 13Sal (Aviso Prévio  PGTO                                                                                                    158,62
+  2882 Média 13º Salário Pr PGTO                                                                                                    632,82
+  3125 Diferença Participan PGTO                                                                                                    510,00
+  3130 Dsr s/ Salário Variá PGTO                                                                                                  1.195,33
+  3213 Salário Variável     PGTO                                                                                                  1.506,80
+  4400 Variável RVV         PGTO                                                                                                  6.503,27
+  4633 Indenização Lei 7238 PGTO                                                                                                  1.903,49
+  2821 Adiant Quinzenal     DESC                                                                                                  8.089,85
+  3508 Assistência Odontoló DESC                                                                                                     24,60
+  3522 Co-Participação UNIM DESC                                                                                                    140,24
+  3612 Assist. Odontologica DESC                                                                                                     49,20
+  5321 Seguro de Vida       DESC                                                                                                     45,55
+  5500 IR Retido            DESC                                                                                                    545,52
+  5560 INSS                 DESC                                                                                                  1.617,55
+  5616 Vale Alimentação     DESC                                                                                                    500,34
+  5916 Vale Alimentação – R DESC                                                                                                    457,30
+  9960 INSS 13Salário       DESC                                                                                                    141,60
+  5251 Base IR 13Sal        BASE                                                                                                  2.321,58
+  5501 Base IR              BASE                                                                                                 14.076,94
+  5551 Base IR Part Lucros  BASE                                                                                                  2.970,00
+  5561 Base INSS            BASE                                                                                                 17.834,62
+  8000 Salario Contribuicao BASE                                                                                                 19.120,42
+  8002 Contribuição - Trib. BASE                                                                                                 17.326,99
+  8003 Contribuição - Trib. BASE                                                                                                  1.793,43
+  9921 Base FGTS            BASE                                                                                                 21.821,69
+  9924 Base FGTS 13o.Sal.   BASE                                                                                                  1.793,43
+  9961 Base INSS 13Salário  BASE                                                                                                  3.377,58

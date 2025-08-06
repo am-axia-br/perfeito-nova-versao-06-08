@@ -1,0 +1,46 @@
+PEPSICO DO BRASIL LTDA
+Ficha Financeira
+Página
+31.565.104/0001-77
+3
+ Ano Competência : 2023                                                                                                                     
+ Estabelecimento :        010048   PEPSICO DO BRASIL LTDA
+ C.R.            :     BR32210           CAMPINAS DTS
+ Empregado       :      90329      ALEXANDRO PEREIRA DE OLIVEIRA
+                                                                     Dt.Admissão : 19/09/2022
+                                                                     Dt.Rescisão : 08/05/2023
+Código Denominação          Clas.        Janeiro      Fevereiro          Março          Abril           Maio          Junho          Julho
+------ -------------------- ----- -------------- -------------- -------------- -------------- -------------- -------------- --------------
+  7318 Percentual Salário V OUTRO          91,66          66,66          87,50          95,83
+  7329 Class Cargo PLR      OUTRO           1,00           1,00           1,00           1,00
+  7338 Código Estabelecimen OUTRO      10.048,00      10.048,00      10.048,00      10.048,00
+  7339 Código CR            OUTRO      32.210,00      32.210,00      32.210,00      32.210,00
+  7340 Código Função        OUTRO       5.016,00       5.016,00       5.016,00       5.016,00
+  7343 Categoria            OUTRO           3,00           3,00           3,00           3,00           3,00
+  7344 Sindicato            OUTRO           3,00           3,00           3,00           3,00           3,00
+  7352 Total de Pagamentos  OUTRO       3.906,71       3.476,89       3.931,12       4.507,84
+  7353 Total de Descontos   OUTRO       2.283,80       2.174,65       2.363,12       2.375,81
+  7355 Media PLR            OUTRO       2.003,22       1.788,31       1.868,08       1.924,65
+  7372 Cód.Contábil - 1 - M OUTRO           2,00           2,00           2,00           2,00           2,00
+  7379 Base Seg. Vida - Cap OUTRO       3.906,71       3.476,89       3.931,12       3.997,84       1.903,49
+  7801 Verba Total RVV Mês  OUTRO       1.744,74       1.268,87       1.665,55       1.824,11
+  7805 Elegibilidade / Qtde OUTRO           1,00           2,00           3,00           4,00           4,00
+  8010 Salário Contribuição OUTRO       3.906,71       3.476,89       3.931,12       3.997,84
+  9950 Líquido Mensal       OUTRO       1.622,91       1.302,24       1.568,00       2.132,03
+  9951 Líquido Rescisão     OUTRO                                                                   9.708,01
+  9954 Liquido Rescisão Com OUTRO                                                                                                 2.578,35
+  9956 Líquido Participação OUTRO                                     1.230,00
+  9958 Líquido Adiantamento OUTRO       1.617,97       1.617,97       1.617,97       1.617,97       1.617,97
+        Dependentes                      Janeiro      Fevereiro          Março          Abril           Maio          Junho          Julho
+        ------------------------- -------------- -------------- -------------- -------------- -------------- -------------- --------------
+        Dependentes IRRF                    1,00           1,00           1,00           1,00           1,00                          1,00
+        Deduções Depend. IRRF             189,59         189,59         189,59         189,59         189,59                        189,59
+        Evolução Salarial               1.903,49       1.903,49       1.903,49       1.903,49       1.903,49       1.903,49       1.903,49
+Assinado eletronicamente por: ALEXANDRE LAURIA DUTRA - Juntado em: 16/09/2024 18:39:01 - d983ea7
+Fls.: 146
+
+
+3523 / 01 / F / 2330403758 / * / 0 / 480 3523_YAGCARVALHO_MENU-ESBO_CONSULTA 31/10/2023 08:36:59
+ 
+Assinado eletronicamente por: ALEXANDRE LAURIA DUTRA - Juntado em: 16/09/2024 18:39:01 - d983ea7
+Fls.: 147

@@ -1,0 +1,40 @@
+PEPSICO DO BRASIL LTDA
+Ficha Financeira
+Página
+31.565.104/0001-77
+1
+ Ano Competência : 2023                                                                                                                     
+ Estabelecimento :        010048   PEPSICO DO BRASIL LTDA
+ C.R.            :     BR32210           CAMPINAS DTS
+ Empregado       :      90329      ALEXANDRO PEREIRA DE OLIVEIRA
+                                                                     Dt.Admissão : 19/09/2022
+                                                                     Dt.Rescisão : 08/05/2023
+Código Denominação          Clas.        Janeiro      Fevereiro          Março          Abril           Maio          Junho          Julho
+------ -------------------- ----- -------------- -------------- -------------- -------------- -------------- -------------- --------------
+  0010 Salário Base         PGTO        1.903,49       1.903,49       1.903,49       1.903,49         507,63
+  0040 Participação Lucros  PGTO                                      1.230,00
+  0404 Média 13º Salário Pr PGTO                                                                                                    167,42
+  0405 Media 13.Sal. Indeni PGTO                                                                                                     41,86
+  0412 1/3 Const Férias Pro PGTO                                                                                                    111,61
+  0416 Média Férias Inden.  PGTO                                                                                                    334,84
+  0418 1/3 Const Férias (Av PGTO                                                                                                     13,95
+  0419 Média Férias (Av. Pr PGTO                                                                                                     41,85
+  0452 Med. Aviso Previo -  PGTO                                                                                                    502,27
+  0518 Media 13.Sal (Aviso  PGTO                                                                      158,21
+  0630 Aviso Prévio Indeniz PGTO                                                                    1.903,49
+  0631 Med. Aviso Previo    PGTO                                                                    2.088,94
+  1922 1/3 Const F Prop Ind PGTO                                                                      887,21
+  1923 1/3 Const Férias (Av PGTO                                                                      110,90
+  2772 Férias Indeniz Prop  PGTO                                                                    1.268,99
+  2774 Média Férias Indeniz PGTO                                                                    1.392,63
+  2775 Férias (Aviso Prévio PGTO                                                                      158,62
+  2776 Média Férias (Av Pre PGTO                                                                      174,08
+  2820 Adiant Quinzenal     PGTO        1.617,97       1.617,97       1.617,97       1.617,97       1.617,97
+  2880 13Sal Proporcional   PGTO                                                                      634,50
+  2881 13Sal (Aviso Prévio  PGTO                                                                      158,62
+  2882 Média 13º Salário Pr PGTO                                                                      632,82
+  3125 Diferença Participan PGTO                                                       510,00
+  3130 Dsr s/ Salário Variá PGTO          258,48         304,53         362,08         270,24
+  3213 Salário Variável     PGTO                                                                                                  1.506,80
+  4400 Variável RVV         PGTO        1.744,74       1.268,87       1.665,55       1.824,11
+  4633 Indenização Lei 7238 PGTO                                                                    1.903,49

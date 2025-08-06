@@ -1,0 +1,253 @@
+RESUMO
+ 
+Estabelecimento: 010048 - PEPSICO DO BRASIL LTDA
+Matricula: 90329
+Nome: ALEXANDRO PEREIRA DE OLIVEIRA
+CR: BR32210 - CAMPINAS DTS
+Cargo: VENDEDOR RESERVA DTS
+Função: VENDEDOR RESERVA DTS
+Data de Admissão: 19/09/2022
+Data de Desligamento: 08/05/2023
+Dependentes de Salário Família: 2
+Dependentes de IR: 1
+Salário Contratual: 1.903,49
+Regime de Horário: Mensalista - ( 220,00 horas )
+Motivo do Desligamento: Dispensa sem Justa Causa
+Nome da Mãe: ANIZIA PEREIRA
+ 
+Data de Crédito: 15/05/2023
+ 
+  PAGAMENTOS
+    DESCONTOS
+ 
+ 
+   
+ 
+Campo 29 
+  Campo 47 
+ 
+0630 Aviso Prévio Indeniz
+30,00
+1.903,49
+  5560 INSS
+38,07 
+0631 Med. Aviso Previo
+2.088,94
+   
+ 
+ 
+  Campo 48 
+ 
+Campo 30 
+  9960 INSS 13Salário
+122,77 
+0010 Salário Base
+58,67
+507,63
+   
+ 
+ 
+  Campo 49 
+ 
+Campo 31 
+  2821 Adiant Quinzenal
+1.617,97 
+2880 13Sal Proporcional
+4,00
+634,50
+   
+ 
+2882 Média 13º Salário Proporcional 4,00
+632,82   Campo 53 
+ 
+ 
+  5321 Seguro de Vida
+9,11 
+Campo 32 
+  5616 Vale Alimentação
+26,90 
+0518 Media 13.Sal (Aviso
+Prev.Inden)
+1,00
+158,21
+  5916 Vale Alimentação – Rescisão
+457,30 
+2881 13Sal (Aviso Prévio
+Indenizado)
+1,00
+158,62
+   
+ 
+ 
+   
+ 
+Campo 33 
+   
+ 
+2775 Férias (Aviso Prévio
+Indenizado)
+2,50
+158,62
+   
+ 
+ 
+   
+ 
+Campo 34 
+   
+ 
+2772 Férias Indeniz Prop
+20,00
+1.268,99
+   
+ 
+2774 Média Férias Indenizadas
+Proporc.
+1.392,63
+   
+ 
+2776 Média Férias (Av Prev Inden)
+174,08
+   
+ 
+ 
+   
+ 
+Campo 35 
+   
+ 
+1922 1/3 Const F Prop Ind
+887,21
+   
+ 
+1923 1/3 Const Férias (Av Prev
+Inden)
+110,90
+   
+ 
+ 
+   
+ 
+Campo 42 
+   
+ 
+4633 Indenização Lei 7238
+1.903,49
+   
+ 
+ Total de Pagamentos:
+11.980,13
+   Total de Descontos:
+2.272,12 
+ 
+   Líquido a Pagar:
+******9.708,01 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Assinado eletronicamente por: ALEXANDRE LAURIA DUTRA - Juntado em: 16/09/2024 18:39:01 - 78ff884
+https://pje.trt15.jus.br/pjekz/validacao/24091618383805500000239863825?instancia=1
+Número do processo: 0011823-38.2023.5.15.0093
+Número do documento: 24091618383805500000239863825
+Fls.: 167
+
+
+Assinado eletronicamente por: ALEXANDRE LAURIA DUTRA - Juntado em: 16/09/2024 18:39:01 - b000507
+https://pje.trt15.jus.br/pjekz/validacao/24091618383920000000239863830?instancia=1
+Número do processo: 0011823-38.2023.5.15.0093
+Número do documento: 24091618383920000000239863830
+Fls.: 168
+
+
+13- Data de Validade =
+13- Data de Validade =
+01 - Razão social/Nome
+02 - CNPJ/CEI
+03 - Endereço (logradouro, nº, andar, apartamento)
+04 - Contato/DDD/telefone
+05 - CEP
+06 - Bairro/distrito
+07 - Município
+08 - UF
+09 - FPAS
+10 - Simples
+11- Identificador
+12- Total a Recolher
+Código de Barras
+Autenticação mecânica
+PEPSICO DO BRASIL LTDA
+31.565.104/0048-30
+ITAJUBA 2292 GALPAO B
+11-51887100
+13.278-530
+JOAPIRANGA
+VALINHOS
+SP
+515
+1
+15/05/2023
+13035725215651042
+GRRF - Guia de Recolhimento Rescisório do FGTS
+Gerada em 10/05/2023 16:03:02
+Versão do Aplicativo: 3.3.17  - 24/01/2020
+1.568,36
+Via Empresa
+Atenção: não receber após Validade
+GRRF - Guia de Recolhimento Rescisório do FGTS
+Gerada em 10/05/2023 16:03:02
+Versão do Aplicativo: 3.3.17  - 24/01/2020
+01 - Razão social/Nome
+PEPSICO DO BRASIL LTDA
+02 - CNPJ/CEI
+31.565.104/0048-30
+03 - Endereço (logradouro, nº, andar, apartamento)
+04 - Contato/DDD/telefone
+05 - CEP
+ITAJUBA 2292 GALPAO B
+11-51887100
+13.278-530
+06 - Bairro/Distrito
+07 - Município
+08 - UF
+09 - FPAS
+10 - Simples
+JOAPIRANGA
+VALINHOS
+SP
+515
+1
+Código de Barras
+Autenticação mecânica
+Via Banco
+11- Identificador
+13035725215651042
+12- Total a Recolher
+1.568,36
+Atenção: não receber após Validade
+858000000151
+683602392021
+305151303576
+252156510427
+858000000151
+683602392021
+305151303576
+252156510427
+15/05/2023
+14 - Qtde Trabalhadores
+1
+1
+14 - Qtde Trabalhadores
+Assinado eletronicamente por: ALEXANDRE LAURIA DUTRA - Juntado em: 16/09/2024 18:39:01 - 08a6dab
+https://pje.trt15.jus.br/pjekz/validacao/24091618385317800000239863840?instancia=1
+Número do processo: 0011823-38.2023.5.15.0093
+Número do documento: 24091618385317800000239863840
+Fls.: 169

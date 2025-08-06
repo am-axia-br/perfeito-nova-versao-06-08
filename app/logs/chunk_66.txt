@@ -1,0 +1,36 @@
+4272 Média Comissão - Fer OUTRO         675,88         749,71       1.019,03       1.218,55
+  4274 Média 13. Salario -  OUTRO          55,65         198,70         467,02         632,82
+  4359 Einstein Conecta     OUTRO           7,50           7,50           7,50           7,50
+  4826 Campo 26 GRFC (Mês R OUTRO                                                                   1.774,95
+  4827 Campo 27 GRFC (Aviso OUTRO                                                                   4.309,26
+  4828 Campo 28 GRFC (Saldo OUTRO                                                                   2.704,08
+  4831 Campo 31 GRFC (FGTS  OUTRO                                                                     141,99
+  4832 Campo 32 GRFC (FGTS  OUTRO                                                                     344,74
+  4833 Campo 33 GRFC (Multa OUTRO                                                                   1.081,63
+  4926 Campo 26 GRFC (Mês R OUTRO                                                                                                 1.674,22
+  4927 Campo 27 GRFC (Aviso OUTRO                                                                                                   544,13
+  4928 Campo 28 GRFC (Saldo OUTRO                                                                                                   177,46
+  4931 Campo 31 GRFC (FGTS  OUTRO                                                                                                   149,10
+  4932 Campo 32 GRFC (FGTS  OUTRO                                                                                                    48,45
+  4933 Campo 33 GRFC (Multa OUTRO                                                                                                    79,02
+  5322 Seguros - Custo Empr OUTRO           9,11           9,11           9,11           9,11           9,11
+  5615 Vale Alimentação - C OUTRO         473,44         473,44         473,44         473,44         107,60
+  6014 Avos de PLR          OUTRO           1,00           2,00           6,00           4,00
+  6015 Percentual Participa OUTRO                                       193,00
+  6016 Base de Cálculo PLR  OUTRO                                     3.485,91
+  6060 Avos LN - Lic Não Re OUTRO           1,00           2,00           3,00           4,00           4,00
+  6222 Total Comissão - Fer OUTRO                                                                   1.392,63
+  6231 Total Comissão - Fer OUTRO                                                                     174,08
+  6400 Prov.Férias-Acum. Mê PROV        1.161,97       1.747,16       2.057,11       2.627,71       3.105,23
+  6401 Prov.Férias INSS-Acu PROV          339,93         516,16         607,72         776,29         917,36
+  6402 Prov.Férias FGTS-Acu PROV           92,96         139,77         164,57         210,22         248,42
+  6403 Prov.Férias - Valor  PROV          436,79         411,42         437,95         443,60         443,60
+  6404 Prov.Férias INSS - V PROV          129,04         121,54         129,38         131,05         131,05
+  6405 Prov.Férias FGTS - V PROV           34,94          32,91          35,04          35,49          35,49
+  6406 Prov.Férias - Ajuste PROV          148,40                        132,65          33,92         443,60
+  6407 Prov.Férias INSS - A PROV           47,19                         39,19          10,02         131,05
+  6408 Prov.Férias FGTS - A PROV           11,87                         10,61           2,71          35,48
+  6409 Prov.Férias - Baixas PROV                                                                    3.992,43
+  6410 Prov.Férias INSS - B PROV                                                                    1.179,46
+  6411 Prov.Férias FGTS - B PROV                                                                      319,39
+  6412 Prov.Férias - Saldo  PROV        1.747,16       2.057,11       2.627,71       3.105,23

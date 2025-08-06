@@ -1,0 +1,20 @@
+3821 Qtde Dias úteis HR   OUTRO                         11,00          25,00          24,00          27,00                         87,00
+  3822 Qtde DSR (Mês Anteri OUTRO                                         1,00           6,00           6,00                         13,00
+  3823 Qtde Dias úteis (Mês OUTRO                                        11,00          25,00          24,00                         60,00
+  3902 Assist. Médica Unime OUTRO                        274,74         274,74         274,74         274,74                      1.098,96
+  3903 Assist. Médica Unime OUTRO                        549,48         549,48         549,48         549,48                      2.197,92
+  3914 Saldo Vida Link      OUTRO                        349,70         349,70         349,70         380,70                      1.429,80
+  3943 Seg. Vida - Capital  OUTRO                    120.549,57     120.549,57     120.549,57     120.549,57                    482.198,28
+  3960 Base desconto VT     OUTRO                        699,41       1.748,52       1.748,52       1.903,49                      6.099,94
+  3971 Adicional SENAI - Di OUTRO                                                                       0,71                          0,71
+  4002 Salário Composto     OUTRO                      1.748,52       1.748,52       1.748,52       1.903,49                      7.149,05
+  4095 Base Salário Variáve OUTRO                                       667,61       2.258,36       1.821,30                      4.747,27
+  4096 Média Salário Variáv OUTRO                                       333,81         975,32       1.186,82                      2.495,95
+  4268 Salário Mens. Virada OUTRO                      1.748,52                                                                   1.748,52
+  4272 Média Comissão - Fer OUTRO                                        18,54         162,55         395,61                        576,70
+  4274 Média 13. Salario -  OUTRO                                        18,54         162,55         395,61                        576,70
+3523 / 01 / F / 2330403776 / * / 0 / 480 3523_YAGCARVALHO_MENU-ESBO_CONSULTA 31/10/2023
+08:37:40
+ 
+Assinado eletronicamente por: ALEXANDRE LAURIA DUTRA - Juntado em: 16/09/2024 18:39:01 - d983ea7
+Fls.: 140

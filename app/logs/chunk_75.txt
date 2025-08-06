@@ -1,0 +1,35 @@
+PEPSICO DO BRASIL LTDA
+Ficha Financeira
+Página
+31.565.104/0001-77
+5
+ Ano Competência : 2023                                                                                                                     
+ Estabelecimento :        010048   PEPSICO DO BRASIL LTDA
+ C.R.            :     BR32210           CAMPINAS DTS
+ Empregado       :      90329      ALEXANDRO PEREIRA DE OLIVEIRA
+                                                                     Dt.Admissão : 19/09/2022
+                                                                     Dt.Rescisão : 08/05/2023
+Código Denominação          Clas.         Agosto       Setembro        Outubro       Novembro       Dezembro      Dec.Terc.          Total
+------ -------------------- ----- -------------- -------------- -------------- -------------- -------------- -------------- --------------
+  1406 IRRF Retenção Remun  OUTRO                                                                                                   545,52
+  1412 IRRF Deduc INSS Remu OUTRO                                                                                                 1.617,55
+  1414 IRRF Deduc INSS 13°  OUTRO                                                                                                   141,60
+  1430 IRRF Deduc Priv Saúd OUTRO                                                                                                   195,59
+  1440 IRRF Rend NTrib Ind/ OUTRO                                                                                                10.892,87
+  1452 IRRF Rend NTrib Outr OUTRO                                                                                                 8.089,85
+  1455 IRRF Rend NTrib Dive OUTRO                                                                                                 9.047,49
+  1500 IRRF CR Mensal/Féria OUTRO                                                                                                   545,52
+  3810 Salário (Informação) OUTRO                                                                                                 7.613,96
+  3820 Qtde DSR HR          OUTRO                                                                                                    26,00
+  3821 Qtde Dias úteis HR   OUTRO                                                                                                   110,00
+  3822 Qtde DSR (Mês Anteri OUTRO                                                                                                    28,00
+  3823 Qtde Dias úteis (Mês OUTRO                                                                                                   131,00
+  3902 Assist. Médica Unime OUTRO                                                                                                 1.098,96
+  3903 Assist. Médica Unime OUTRO                                                                                                 2.197,92
+  3914 Saldo Vida Link      OUTRO                                                                                                 1.522,80
+  3943 Seg. Vida - Capital  OUTRO                                                                                               712.176,25
+  3960 Base desconto VT     OUTRO                                                                                                 8.121,59
+  4002 Salário Composto     OUTRO                                                                                                11.420,94
+  4006 Margem Emprestimo    OUTRO                                                                                                 2.221,89
+  4095 Base Salário Variáve OUTRO                                                                                                 9.205,40
+  4096 Média Salário Variáv OUTRO                                                                                                 7.327,67

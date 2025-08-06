@@ -1,0 +1,28 @@
+2821 Adiant Quinzenal     DESC                                      1.486,24       1.486,24       1.486,24                      4.458,72
+  3501 Desconto Adto. Aux.  DESC                         295,90                                                                     295,90
+  3508 Assistência Odontoló DESC                           6,15           6,15           6,15           6,15                         24,60
+  3612 Assist. Odontologica DESC                          12,30          12,30          12,30          12,30                         49,20
+  5321 Seguro de Vida       DESC                           7,71           7,71           7,71           7,71                         30,84
+  5500 IR Retido            DESC                                                       158,22         167,65                        325,87
+  5560 INSS                 DESC                          52,45         199,27         397,13         357,64                      1.006,49
+  5563 Diferença de INSS    DESC                                                                       49,72                         49,72
+  5616 Vale Alimentação     DESC                          59,18         118,36         118,36         118,36                        414,26
+  9960 INSS 13Salário       DESC                                                                       14,29          51,07          65,36
+  5251 Base IR 13Sal        BASE                                                                      616,53         440,30       1.056,83
+  5501 Base IR              BASE                         646,96       2.027,27       3.420,16       3.482,97                      9.577,36
+  5561 Base INSS            BASE                         699,41       2.416,13       4.006,88       3.724,79                     10.847,21
+  8000 Salario Contribuicao BASE                         699,41       2.416,13       4.006,88       3.915,31         680,96      11.718,69
+  8002 Contribuição - Trib. BASE                         699,41       2.416,13       4.006,88       3.724,79                     10.847,21
+  8003 Contribuição - Trib. BASE                                                                      190,52         680,96         871,48
+  9921 Base FGTS            BASE                         699,41       2.416,13       4.006,88       3.724,79                     10.847,21
+  9924 Base FGTS 13o.Sal.   BASE                                                       246,39         625,09                        871,48
+  9961 Base INSS 13Salário  BASE                                                                      871,48         680,96       1.552,44
+  8100 Inss Empregador      ENCAR                        139,88         483,23         801,38         783,06         136,19       2.343,74
+  8101 RAT                  ENCAR                         24,16          83,47         138,42         135,25          23,52         404,82
+  8102 Salario Educacao     ENCAR                         17,49          60,40         100,17          97,88          17,02         292,96
+  8103 Incra                ENCAR                          1,40           4,83           8,01           7,83           1,36          23,43
+  8106 Senac                ENCAR                          6,99          24,16          40,07          39,15           6,81         117,18
+  8107 Sesc                 ENCAR                         10,49          36,24          60,10          58,73          10,21         175,77
+  8108 Sebrae               ENCAR                          4,20          14,50          24,04          23,49           4,09          70,32
+  9920 FGTS                 ENCAR                         55,95         193,29         320,55         297,98                        867,77
+  9923 FGTS - 13o. Salário  ENCAR                                                       19,71          50,01                         69,72

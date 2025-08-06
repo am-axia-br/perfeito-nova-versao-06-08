@@ -1,0 +1,167 @@
+Alíquota (B)
+Valor corrigido
+Índice correção
+Total
+Devido SAT (C)
+Ocorrência
+Juros
+Salário Devido (A)
+Multa
+10/2019
+15.443,00
+2,0000 %
+1,000000000
+308,86
+308,86
+49,23
+358,09
+-
+11/2019
+22.091,62
+2,0000 %
+1,000000000
+441,83
+441,83
+68,79
+510,62
+-
+12/2019
+11.771,42
+2,0000 %
+1,000000000
+235,43
+235,43
+35,76
+271,19
+-
+12/2019
+12.497,33
+2,0000 %
+1,000000000
+249,95
+249,95
+38,91
+288,86
+-
+01/2020
+7.583,30
+2,0000 %
+1,000000000
+151,67
+151,67
+22,59
+174,26
+-
+01/2020
+1.946,33
+2,0000 %
+1,000000000
+38,93
+38,93
+5,80
+44,73
+-
+23.509,52
+Total
+5.536,35
+17.973,17
+0,00
+C = A x B
+Observação:
+Demonstrativo de Multas / Indenizações
+ Nome: MULTAS / INDENIZAÇÕES DEVIDAS AO RECLAMANTE
+ Valores Informados
+Ocorrência
+Valor (A)
+Índice correção (B)
+Descrição
+Valor corrigido
+Total (D)
+Juros (C)
+D = [(A x B) + C]
+29/05/2020
+MULTA DE 2% SOBRE O VALOR DA CAUSA
+17.796,73
+1,142800000
+0,00
+20.338,10
+20.338,10
+20.338,10
+Total
+Demonstrativo de Honorários
+ Nome: HONORÁRIOS DEVIDOS PELO RECLAMANTE
+ Valores Informados
+Ocorrência
+Credor
+Valor (A)
+Índice correção (B)
+Total (D)
+Valor corrigido
+Juros (C)
+Descrição
+D = [(A x B) + C]
+29/05/2020
+3.577,76
+1,000000000
+3.577,76
+-
+3.577,76
+HONORÁRIOS DE SUCUMBÊNCIA
+HONORÁRIOS DE SUCUMBÊNCIA
+3.577,76
+Total
+ Nome: HONORÁRIOS DEVIDOS PELO RECLAMADO
+ Valores Informados
+Ocorrência
+Credor
+Valor (A)
+Índice correção (B)
+Total (D)
+Valor corrigido
+Juros (C)
+Descrição
+D = [(A x B) + C]
+21/06/2021
+2.500,00
+1,000000000
+2.500,00
+-
+2.500,00
+HONORÁRIOS PERICIAIS - ENGENHEIRO
+HONORÁRIOS PERICIAIS - ENGENHEIRO
+21/06/2021
+1.000,00
+1,000000000
+1.000,00
+-
+1.000,00
+HONORÁRIOS RECONVINTE
+TAIS RODRIGUES ALVES DOS SANTOS E
+OUTROS
+ Valores Calculados
+C=(A x B)
+Valor (C)
+Alíquota (B)
+Descrição
+Credor
+Ocorrência
+Base (A)
+ Composição de Base: (Bruto) x 5,00%
+30/09/2022
+1.656.450,54
+5,00 %
+82.822,53
+HONORÁRIOS ADVOCATÍCIOS
+TAIS RODRIGUES ALVES DOS SANTOS E
+OUTROS
+86.322,53
+Total
+Demonstrativo de Imposto de Renda
+Pág. 108 de 109
+Cálculo liquidado por offline na versão 2.10.2 em 09/09/2022 às 16:23:12.
+Número do processo: 0010665-35.2022.5.03.0054
+Número do documento: 22091220330839000000096112669
+https://pje.trt3.jus.br/segundograu/Processo/ConsultaDocumento/listView.seam?nd=22091220330839000000096112669
+Assinado eletronicamente por: RAQUEL LEÔNCIO GUIMARÃES - 12/09/2022 20:33:27 - 504a921
+ID. 504a921 - Pág. 109
+Fls.: 788

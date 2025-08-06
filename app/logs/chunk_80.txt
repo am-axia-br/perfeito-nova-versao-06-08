@@ -1,0 +1,35 @@
+PEPSICO DO BRASIL LTDA
+Ficha Financeira
+Página
+31.565.104/0001-77
+6
+ Ano Competência : 2023                                                                                                                     
+ Estabelecimento :        010048   PEPSICO DO BRASIL LTDA
+ C.R.            :     BR32210           CAMPINAS DTS
+ Empregado       :      90329      ALEXANDRO PEREIRA DE OLIVEIRA
+                                                                     Dt.Admissão : 19/09/2022
+                                                                     Dt.Rescisão : 08/05/2023
+Código Denominação          Clas.         Agosto       Setembro        Outubro       Novembro       Dezembro      Dec.Terc.          Total
+------ -------------------- ----- -------------- -------------- -------------- -------------- -------------- -------------- --------------
+  7318 Percentual Salário V OUTRO                                                                                                   341,65
+  7329 Class Cargo PLR      OUTRO                                                                                                     4,00
+  7338 Código Estabelecimen OUTRO                                                                                                40.192,00
+  7339 Código CR            OUTRO                                                                                               128.840,00
+  7340 Código Função        OUTRO                                                                                                20.064,00
+  7343 Categoria            OUTRO                                                                                                    15,00
+  7344 Sindicato            OUTRO                                                                                                    15,00
+  7352 Total de Pagamentos  OUTRO                                                                                                15.822,56
+  7353 Total de Descontos   OUTRO                                                                                                 9.197,38
+  7355 Media PLR            OUTRO                                                                                                 7.584,26
+  7372 Cód.Contábil - 1 - M OUTRO                                                                                                    10,00
+  7379 Base Seg. Vida - Cap OUTRO                                                                                                17.216,05
+  7801 Verba Total RVV Mês  OUTRO                                                                                                 6.503,27
+  7805 Elegibilidade / Qtde OUTRO                                                                                                    14,00
+  8010 Salário Contribuição OUTRO                                                                                                15.312,56
+  9950 Líquido Mensal       OUTRO                                                                                                 6.625,18
+  9951 Líquido Rescisão     OUTRO                                                                                                 9.708,01
+  9954 Liquido Rescisão Com OUTRO                                                                                                 2.578,35
+  9956 Líquido Participação OUTRO                                                                                                 1.230,00
+  9958 Líquido Adiantamento OUTRO                                                                                                 8.089,85
+        Dependentes                       Agosto       Setembro       Oututbro       Novembro       Dezembro      Dec.Terc.          Total
+        ------------------------- -------------- -------------- -------------- -------------- -------------- -------------- --------------

@@ -1,0 +1,36 @@
+PEPSICO DO BRASIL LTDA
+Ficha Financeira
+Página
+31.565.104/0001-77
+1
+ Ano Competência : 2022                                                                                                                     
+ Estabelecimento :        010048   PEPSICO DO BRASIL LTDA
+ C.R.            :     BR32210           CAMPINAS DTS
+ Empregado       :      90329      ALEXANDRO PEREIRA DE OLIVEIRA
+                                                                     Dt.Admissão : 19/09/2022
+                                                                     Dt.Rescisão : 08/05/2023
+                                          Janeiro      Fevereiro          Março          Abril           Maio          Junho          Julho
+                                   -------------- -------------- -------------- -------------- -------------- -------------- --------------
+        Evolução Salarial
+Código Denominação          Clas.         Agosto       Setembro        Outubro       Novembro       Dezembro      Dec.Terc.          Total
+------ -------------------- ----- -------------- -------------- -------------- -------------- -------------- -------------- --------------
+  0010 Salário Base         PGTO                         699,41       1.748,52       1.748,52       1.903,49                      6.099,94
+  0030 Salário Família      PGTO                          45,17                                                                      45,17
+  0101 DIF. SAL. DISSIDIO   PGTO                                                                      355,13                        355,13
+  0508 13º Salário - Adiant PGTO                                                       218,57                                       218,57
+  0512 13º Salário - 2ª Par PGTO                                                                                     437,13         437,13
+  0513 Diferença 13Salário  PGTO                                                                       38,74                         38,74
+  0517 13º Salário - Média  PGTO                                                                                     243,83         243,83
+  0525 Dif. de Médias 13º S PGTO                                                                      151,78                        151,78
+  2764 MÉDIA ADTO. 13º SALÁ PGTO                                                        27,82                                        27,82
+  2820 Adiant Quinzenal     PGTO                                      1.486,24       1.486,24       1.486,24                      4.458,72
+  3001 Aux. Refeição (Adipa PGTO                         295,90                                                                     295,90
+  3003 Antec. Auxilio Refei PGTO                         295,90                                                                     295,90
+  3130 Dsr s/ Salário Variá PGTO                                         55,63         437,10         364,26                        856,99
+  3137 Garantia Remuneração PGTO                                                                    1.019,91                      1.019,91
+  4400 Variável RVV         PGTO                                        611,98       1.821,26         437,13                      2.870,37
+  0514 Desc. 13º Salário -  DESC                                                                                     218,57         218,57
+  0521 Desc. Média 13º Salá DESC                                                                                      27,82          27,82
+  2821 Adiant Quinzenal     DESC                                      1.486,24       1.486,24       1.486,24                      4.458,72
+  3501 Desconto Adto. Aux.  DESC                         295,90                                                                     295,90
+  3508 Assistência Odontoló DESC                           6,15           6,15           6,15           6,15                         24,60

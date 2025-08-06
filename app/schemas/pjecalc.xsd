@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="PjeCalc">
+    <xs:complexType>
+      <xs:sequence>
+
+        <!-- Identificação -->
+        <xs:element name="Identificacao">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NumeroProcesso" type="xs:string" />
+              <xs:element name="Vara" type="xs:string" />
+              <xs:element name="Tribunal" type="xs:string" />
+              <xs:element name="DataDistribuicao" type="xs:date" minOccurs="0"/>
+              <xs:element name="ValorCausa" type="xs:string" minOccurs="0"/>
+              <xs:element name="FaseProcessual" type="xs:string" minOccurs="0"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+        <!-- Partes -->
+        <xs:element name="Partes">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Reclamante" type="xs:string" />
+              <xs:element name="Reclamada" type="xs:string" />
+              <xs:element name="CPFReclamante" type="xs:string" minOccurs="0"/>
+              <xs:element name="CNPJReclamada" type="xs:string" minOccurs="0"/>
+              <xs:element name="Advogados" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Advogado" type="xs:string" maxOccurs="unbounded" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+        <!-- Contrato de Trabalho -->
+        <xs:element name="ContratoTrabalho">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DataAdmissao" type="xs:date" />
+              <xs:element name="DataDemissao" type="xs:date" minOccurs="0"/>
+              <xs:element name="Cargo" type="xs:string" />
+              <xs:element name="TipoContrato" type="xs:string" />
+              <xs:element name="SalarioBase" type="xs:string" />
+              <xs:element name="JornadaSemanal" type="xs:string" minOccurs="0"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+        <!-- Pleitos -->
+        <xs:element name="Pleitos">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="VerbaReclamada" type="xs:string" maxOccurs="unbounded" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+        <!-- Decisão -->
+        <xs:element name="Decisao">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:any minOccurs="0" maxOccurs="unbounded" processContents="lax" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+        <!-- Observações -->
+        <xs:element name="Observacoes" type="xs:string" minOccurs="0" />
+
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

@@ -1,0 +1,205 @@
+32
+Machado Júnior
+Decisão
+/2023
+108f6
+fd
+César Pereira da Silva
+Machado Júnior
+Intimação
+23/10
+/2023
+5f699
+d8
+LUIZ GUSTAVO ROCHA
+OLIVEIRA ROCHOLI
+Contraminuta
+01/11
+/2023
+910a
+237
+LUIZ GUSTAVO ROCHA
+OLIVEIRA ROCHOLI
+Documento Diverso
+01/11
+/2023
+3877
+1cc
+LUIZ GUSTAVO ROCHA
+OLIVEIRA ROCHOLI
+Contrarrazões
+01/11
+/2023
+fc945
+46
+LUIZ GUSTAVO ROCHA
+OLIVEIRA ROCHOLI
+Documento Diverso
+01/11
+/2023
+2b95
+661
+TAIS RODRIGUES ALVES DOS
+SANTOS
+Contrarrazões
+08/11
+/2023
+16dd
+6cd
+TAIS RODRIGUES ALVES DOS
+SANTOS
+Contraminuta
+08/11
+/2023
+ 
+ 
+CERTIFICO para os devidos fins que as informações acima são
+fidedignas com os registros do sistema PJe-JT no 2º grau.
+Nesses termos, faço a remessa dos autos ao Colendo TST.
+ 
+BELO HORIZONTE/MG, 13 de novembro de 2023.
+PAULO ROBERTO CARCHENO
+Assinado eletronicamente por: PAULO ROBERTO CARCHENO - Juntado em: 13/11/2023 11:07:37 - b458196
+https://pje.trt3.jus.br/pjekz/validacao/23111311073660500000104597046?instancia=2
+Número do processo: 0010665-35.2022.5.03.0054
+Número do documento: 23111311073660500000104597046
+Fls.: 1089
+
+
+SUMÁRIO
+Documentos
+Id.
+Data da
+Assinatura
+Documento
+Tipo
+2d385c2
+21/07/2022 12:39
+Petição Inicial
+Petição Inicial
+3bdc0b2
+21/07/2022 12:39
+DOC 1) INICIAL E DOCUMENTOS 1-50
+Documento Diverso
+ff196da
+21/07/2022 12:39
+DOC 2) INICIAL E DOCUMENTOS 51-98
+Documento Diverso
+e951ceb
+21/07/2022 12:39
+DOC 3) DEFESA E DOCUMENTOS
+Documento Diverso
+a5bdd08
+21/07/2022 12:39
+DOC 4) PROCURACAO E SUBS GERDAU
+Documento Diverso
+d9b3940
+21/07/2022 12:39
+DOC 5) IMPUGNACOES
+Documento Diverso
+f4c8dbb
+21/07/2022 12:39
+DOC 6) LAUDO PERICIAL E ESCLARECIMENTOS
+Documento Diverso
+9e00511
+21/07/2022 12:39
+DOC 7) ATAS E SENTENCAS
+Documento Diverso
+857a332
+21/07/2022 12:39
+DOC 8) RECURSOS
+Documento Diverso
+a3ebaa4
+21/07/2022 12:39
+DOC 9) ACORDAOS E CERTIDAO DE REMESSA TST
+Documento Diverso
+a00ccfb
+01/08/2022 09:24
+HABILITAÇÃO_LAS GERDAU
+Solicitação de
+Habilitação
+772923f
+01/08/2022 09:24
+Procuração
+Procuração
+62b07f1
+01/08/2022 09:24
+Substabelecimento com Reserva de Poderes
+Substabelecimento
+com Reserva de
+Poderes
+7d41867
+01/08/2022 09:24
+Estatuto
+Estatuto
+a004928
+04/08/2022 11:24
+Decisão
+Decisão
+2ff07f8
+04/08/2022 13:53
+Intimação
+Intimação
+6cb5a72
+04/08/2022 13:53
+Intimação
+Intimação
+088d110
+02/09/2022 21:43
+Habilitação
+Solicitação de
+Habilitação
+885ebb3
+02/09/2022 21:43
+Substabelecimento com Reserva de Poderes
+Substabelecimento
+com Reserva de
+Poderes
+5bdb992
+02/09/2022 21:45
+APRESENTAR CÁLCULOS GERDAU
+Manifestação
+9aabe87
+02/09/2022 21:45
+Cálculos
+Documento Diverso
+80cf1e7
+12/09/2022 20:33
+Impugnação aos cálculos da Reclamada
+Impugnação
+504a921
+12/09/2022 20:33
+CÁLCULOS RECLAMANTE
+Documento Diverso
+d80f692
+29/09/2022 23:10
+IMPUGNAÇÃO CÁLCULOS RECLAMANTE GERDAU
+Impugnação
+4114e56
+13/10/2022 13:00
+Decisão
+Decisão
+f1c199e
+13/10/2022 13:01
+Intimação
+Intimação
+19880a0
+28/10/2022 18:01
+Manifestação Gerdau
+Manifestação
+fb5a82b
+02/11/2022 18:21
+Intimação
+Intimação
+1b20d8d
+03/11/2022 13:46
+Despacho
+Despacho
+e4ec5f1
+03/11/2022 13:47
+Intimação
+Intimação
+409f512
+11/11/2022 17:22
+JUNTADA COMPROVANTE GARANTIA. GERDAU
+Manifestação

@@ -1,0 +1,32 @@
+3130 Dsr s/ Salário Variá PGTO          258,48         304,53         362,08         270,24
+  3213 Salário Variável     PGTO                                                                                                  1.506,80
+  4400 Variável RVV         PGTO        1.744,74       1.268,87       1.665,55       1.824,11
+  4633 Indenização Lei 7238 PGTO                                                                    1.903,49
+  2821 Adiant Quinzenal     DESC        1.617,97       1.617,97       1.617,97       1.617,97       1.617,97
+  3508 Assistência Odontoló DESC            6,15           6,15           6,15           6,15
+  3522 Co-Participação UNIM DESC                                         72,75          67,49
+  3612 Assist. Odontologica DESC           12,30          12,30          12,30          12,30
+  5321 Seguro de Vida       DESC            9,11           9,11           9,11           9,11           9,11
+  5500 IR Retido            DESC          146,80          90,21         149,95         158,56
+  5560 INSS                 DESC          373,11         320,55         376,53         385,87          38,07                        123,42
+  5616 Vale Alimentação     DESC          118,36         118,36         118,36         118,36          26,90
+  5916 Vale Alimentação – R DESC                                                                      457,30
+  9960 INSS 13Salário       DESC                                                                      122,77                         18,83
+  5251 Base IR 13Sal        BASE                                                                    1.056,15                      1.265,43
+  5501 Base IR              BASE        3.344,01       2.966,75       3.365,00       3.422,38                                       978,80
+  5551 Base IR Part Lucros  BASE                                      1.230,00       1.740,00
+  5561 Base INSS            BASE        3.906,71       3.476,89       3.931,12       3.997,84         507,63                      2.014,43
+  8000 Salario Contribuicao BASE        3.906,71       3.476,89       3.931,12       3.997,84       2.091,78                      1.716,08
+  8002 Contribuição - Trib. BASE        3.906,71       3.476,89       3.931,12       3.997,84         507,63                      1.506,80
+  8003 Contribuição - Trib. BASE                                                                    1.584,15                        209,28
+  9921 Base FGTS            BASE        3.906,71       3.476,89       3.931,12       3.997,84       4.500,06                      2.009,07
+  9924 Base FGTS 13o.Sal.   BASE                                                                    1.584,15                        209,28
+  9961 Base INSS 13Salário  BASE                                                                    1.584,15                      1.793,43
+  4631 FGTS- Art 18 - Salár ENCAR                                                                   1.030,94                         64,29
+  4635 FGTS - Art.18 - 13o. ENCAR                                                                      50,69                          6,69
+  8100 Inss Empregador      ENCAR         781,34         695,38         786,22         799,57         418,36                        343,22
+  8101 RAT                  ENCAR         146,21         130,12         147,12         149,62          78,28                         64,22
+  8102 Salario Educacao     ENCAR          97,67          86,92          98,28          99,95          52,29                         42,90
+  8103 Incra                ENCAR           7,81           6,95           7,86           8,00           4,18                          3,43
+  8106 Senac                ENCAR          39,07          34,77          39,31          39,98          20,92                         17,16
+  8107 Sesc                 ENCAR          58,60          52,15          58,97          59,97          31,38                         25,74

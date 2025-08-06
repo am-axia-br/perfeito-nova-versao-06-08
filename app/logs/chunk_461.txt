@@ -1,0 +1,354 @@
+0010665-35.2022.5.03.0054
+Cálculo:
+1835
+Processo:
+Reclamante:
+29/05/2015 a 13/01/2020
+GERDAU AÇOMINAS S/A
+30/09/2022
+HELIDA MARTINS LIMA
+Data Liquidação:
+Reclamado:
+29/05/2020
+Data Ajuizamento:
+Período do Cálculo:
+PLANILHA DE CÁLCULO
+Estado: MG
+Admissão:
+Demissão:
+Dados do Cálculo
+Aplicar Prescrição Trintenária:
+Regime de Trabalho:
+Aplicar Prescrição Quinquenal:
+Município:
+Última Remuneração:
+Maior Remuneração:
+Limitar Avos ao Período de Cálculo:
+Considerar Feriados
+Prazo de Aviso Prévio:
+Projetar Aviso Prévio Indenizado:
+Zerar Valor Negativo (Padrão):
+Considerar Feriados Estaduais:
+Sábado como Dia Útil:
+Carga Horária (Padrão):
+CONGONHAS
+Tempo Integral
+9.200,00
+Calculado
+Não
+220,00
+10/12/2001
+Sim
+9.200,00
+Sim
+Sim
+Sim
+13/01/2020
+Não
+Não
+Sim
+PONTOS FACULTATIVOS
+Nome
+Abrangência
+CORPUS CHRISTI
+Nacional
+SEXTA-FEIRA SANTA
+Nacional
+CARNAVAL
+Nacional
+Histórico Salarial
+OCORRÊNCIAS DO HISTÓRICO SALARIAL
+MÊS/ANO
+SALÁRIO PAGO
+ÚLTIMA REMUNERAÇÃO
+12/2001
+-
+9.200,00
+01/2002
+-
+9.200,00
+02/2002
+-
+9.200,00
+03/2002
+-
+9.200,00
+04/2002
+-
+9.200,00
+05/2002
+-
+9.200,00
+06/2002
+-
+9.200,00
+07/2002
+-
+9.200,00
+08/2002
+-
+9.200,00
+09/2002
+-
+9.200,00
+10/2002
+-
+9.200,00
+11/2002
+-
+9.200,00
+12/2002
+-
+9.200,00
+Pág. 4 de 48
+Cálculo liquidado por offline na versão 2.10.2 em 02/09/2022 às 18:54:03.
+Número do processo: 0010665-35.2022.5.03.0054
+Número do documento: 22090221445095700000096112663
+https://pje.trt3.jus.br/segundograu/Processo/ConsultaDocumento/listView.seam?nd=22090221445095700000096112663
+Assinado eletronicamente por: LUANA DE OLIVEIRA SARAIVA - 02/09/2022 21:45:06 - 9aabe87
+ID. 9aabe87 - Pág. 4
+Fls.: 628
+
+
+OCORRÊNCIAS DO HISTÓRICO SALARIAL
+MÊS/ANO
+SALÁRIO PAGO
+ÚLTIMA REMUNERAÇÃO
+01/2003
+-
+9.200,00
+02/2003
+-
+9.200,00
+03/2003
+-
+9.200,00
+04/2003
+-
+9.200,00
+05/2003
+-
+9.200,00
+06/2003
+-
+9.200,00
+07/2003
+-
+9.200,00
+08/2003
+-
+9.200,00
+09/2003
+-
+9.200,00
+10/2003
+-
+9.200,00
+11/2003
+-
+9.200,00
+12/2003
+-
+9.200,00
+01/2004
+-
+9.200,00
+02/2004
+-
+9.200,00
+03/2004
+-
+9.200,00
+04/2004
+-
+9.200,00
+05/2004
+-
+9.200,00
+06/2004
+-
+9.200,00
+07/2004
+-
+9.200,00
+08/2004
+-
+9.200,00
+09/2004
+-
+9.200,00
+10/2004
+-
+9.200,00
+11/2004
+-
+9.200,00
+12/2004
+-
+9.200,00
+01/2005
+-
+9.200,00
+02/2005
+-
+9.200,00
+03/2005
+-
+9.200,00
+04/2005
+-
+9.200,00
+05/2005
+-
+9.200,00
+06/2005
+-
+9.200,00
+07/2005
+-
+9.200,00
+08/2005
+-
+9.200,00
+09/2005
+-
+9.200,00
+10/2005
+-
+9.200,00
+11/2005
+-
+9.200,00
+12/2005
+-
+9.200,00
+Pág. 5 de 48
+Cálculo liquidado por offline na versão 2.10.2 em 02/09/2022 às 18:54:03.
+Número do processo: 0010665-35.2022.5.03.0054
+Número do documento: 22090221445095700000096112663
+https://pje.trt3.jus.br/segundograu/Processo/ConsultaDocumento/listView.seam?nd=22090221445095700000096112663
+Assinado eletronicamente por: LUANA DE OLIVEIRA SARAIVA - 02/09/2022 21:45:06 - 9aabe87
+ID. 9aabe87 - Pág. 5
+Fls.: 629
+
+
+OCORRÊNCIAS DO HISTÓRICO SALARIAL
+MÊS/ANO
+SALÁRIO PAGO
+ÚLTIMA REMUNERAÇÃO
+01/2006
+-
+9.200,00
+02/2006
+-
+9.200,00
+03/2006
+-
+9.200,00
+04/2006
+-
+9.200,00
+05/2006
+-
+9.200,00
+06/2006
+-
+9.200,00
+07/2006
+-
+9.200,00
+08/2006
+-
+9.200,00
+09/2006
+-
+9.200,00
+10/2006
+-
+9.200,00
+11/2006
+-
+9.200,00
+12/2006
+-
+9.200,00
+01/2007
+-
+9.200,00
+02/2007
+-
+9.200,00
+03/2007
+-
+9.200,00
+04/2007
+-
+9.200,00
+05/2007
+-
+9.200,00
+06/2007
+-
+9.200,00
+07/2007
+-
+9.200,00
+08/2007
+-
+9.200,00
+09/2007
+-
+9.200,00
+10/2007
+-
+9.200,00
+11/2007
+-
+9.200,00
+12/2007
+-
+9.200,00
+01/2008
+-
+9.200,00
+02/2008
+-
+9.200,00
+03/2008
+-
+9.200,00
+04/2008
+-
+9.200,00
+05/2008
+-
+9.200,00
+06/2008
+-
+9.200,00
+07/2008
+-
+9.200,00
+08/2008
+-
+9.200,00
+09/2008
+-
+9.200,00
+10/2008
+-
+9.200,00
+11/2008
+-
+9.200,00
+12/2008
+-
+9.200,00
+Pág. 6 de 48
+Cálculo liquidado por offline na versão 2.10.2 em 02/09/2022 às 18:54:03.
+Número do processo: 0010665-35.2022.5.03.0054
+Número do documento: 22090221445095700000096112663
+https://pje.trt3.jus.br/segundograu/Processo/ConsultaDocumento/listView.seam?nd=22090221445095700000096112663
+Assinado eletronicamente por: LUANA DE OLIVEIRA SARAIVA - 02/09/2022 21:45:06 - 9aabe87
+ID. 9aabe87 - Pág. 6
+Fls.: 630

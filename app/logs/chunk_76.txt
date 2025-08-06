@@ -1,0 +1,28 @@
+4006 Margem Emprestimo    OUTRO                                                                                                 2.221,89
+  4095 Base Salário Variáve OUTRO                                                                                                 9.205,40
+  4096 Média Salário Variáv OUTRO                                                                                                 7.327,67
+  4272 Média Comissão - Fer OUTRO                                                                                                 3.663,17
+  4274 Média 13. Salario -  OUTRO                                                                                                 1.354,19
+  4359 Einstein Conecta     OUTRO                                                                                                    30,00
+  4826 Campo 26 GRFC (Mês R OUTRO                                                                                                 1.774,95
+  4827 Campo 27 GRFC (Aviso OUTRO                                                                                                 4.309,26
+  4828 Campo 28 GRFC (Saldo OUTRO                                                                                                 2.704,08
+  4831 Campo 31 GRFC (FGTS  OUTRO                                                                                                   141,99
+  4832 Campo 32 GRFC (FGTS  OUTRO                                                                                                   344,74
+  4833 Campo 33 GRFC (Multa OUTRO                                                                                                 1.081,63
+  4926 Campo 26 GRFC (Mês R OUTRO                                                                                                 1.674,22
+  4927 Campo 27 GRFC (Aviso OUTRO                                                                                                   544,13
+  4928 Campo 28 GRFC (Saldo OUTRO                                                                                                   177,46
+  4931 Campo 31 GRFC (FGTS  OUTRO                                                                                                   149,10
+  4932 Campo 32 GRFC (FGTS  OUTRO                                                                                                    48,45
+  4933 Campo 33 GRFC (Multa OUTRO                                                                                                    79,02
+  5322 Seguros - Custo Empr OUTRO                                                                                                    45,55
+  5615 Vale Alimentação - C OUTRO                                                                                                 2.001,36
+  6014 Avos de PLR          OUTRO                                                                                                    13,00
+  6015 Percentual Participa OUTRO                                                                                                   193,00
+  6016 Base de Cálculo PLR  OUTRO                                                                                                 3.485,91
+  6060 Avos LN - Lic Não Re OUTRO                                                                                                    14,00
+  6222 Total Comissão - Fer OUTRO                                                                                                 1.392,63
+  6231 Total Comissão - Fer OUTRO                                                                                                   174,08
+  6400 Prov.Férias-Acum. Mê PROV                                                                                                 10.699,18
+  6401 Prov.Férias INSS-Acu PROV                                                                                                  3.157,46

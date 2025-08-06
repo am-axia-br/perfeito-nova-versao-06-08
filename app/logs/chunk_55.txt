@@ -1,0 +1,28 @@
+8108 Sebrae               ENCAR                          4,20          14,50          24,04          23,49           4,09          70,32
+  9920 FGTS                 ENCAR                         55,95         193,29         320,55         297,98                        867,77
+  9923 FGTS - 13o. Salário  ENCAR                                                       19,71          50,01                         69,72
+  0020 Armazena Salário     OUTRO                      1.748,52       1.748,52       1.748,52       1.903,49                      7.149,05
+  0029 Base Salário Família OUTRO                        699,41       2.416,13       4.006,88       3.915,31                     11.037,73
+  0509 Total de 13º Salário OUTRO                                                                     871,48                        871,48
+  1151 Margem Para Concessã OUTRO                         55,08         464,78         332,75         381,16                      1.233,77
+  1300 Base FGTS RecMes - R OUTRO                        699,41       2.416,13       4.006,88       3.724,79                     10.847,21
+  1301 Base FGTS RecMes - 1 OUTRO                                                      246,39         190,52         434,57         871,48
+  1330 FGTS RecMes - Remun  OUTRO                         55,95         193,29         320,55         297,98                        867,77
+  1331 FGTS RecMes - 13Sal  OUTRO                                                       19,71          15,24          34,76          69,71
+  1340 Base FGTS RecMes Dis OUTRO                                                                     355,13                        355,13
+  1350 FGTS RecMes Diss - R OUTRO                                                                      28,41                         28,41
+  1400 IRRF Rend Trib Remun OUTRO                                                    1.748,52       2.258,62                      4.007,14
+  1402 IRRF Rend Trib 13°   OUTRO                                                                     190,52         680,96         871,48
+  1406 IRRF Retenção Remun  OUTRO                                                      158,22         167,65                        325,87
+  1412 IRRF Deduc INSS Remu OUTRO                                                      397,13         407,36                        804,49
+  1414 IRRF Deduc INSS 13°  OUTRO                                                                      14,29          51,07          65,36
+  1452 IRRF Rend NTrib Outr OUTRO                                                    1.732,63       1.486,24                      3.218,87
+  1453 IRRF Rend NTrib Outr OUTRO                                                                                     27,82          27,82
+  1454 IRRF Rend NTrib Dive OUTRO                                                      143,92         327,30                        471,22
+  1455 IRRF Rend NTrib Dive OUTRO                                                                                    218,57         218,57
+  1500 IRRF CR Mensal/Féria OUTRO                                                      158,22         167,65                        325,87
+  3810 Salário (Informação) OUTRO                        699,41       1.748,52       1.748,52       1.903,49                      6.099,94
+  3820 Qtde DSR HR          OUTRO                          1,00           6,00           6,00           4,00                         17,00
+  3821 Qtde Dias úteis HR   OUTRO                         11,00          25,00          24,00          27,00                         87,00
+  3822 Qtde DSR (Mês Anteri OUTRO                                         1,00           6,00           6,00                         13,00
+  3823 Qtde Dias úteis (Mês OUTRO                                        11,00          25,00          24,00                         60,00

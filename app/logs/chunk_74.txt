@@ -1,0 +1,16 @@
+1303 Base FGTS RecRes - 1 OUTRO                                                                                                 1.434,74
+  1304 Base FGTS RecRes - A OUTRO                                                                                                 4.853,39
+  1305 Base FGTS Ind. Compe OUTRO                                                                                                 2.881,54
+  1315 Base FGTS Ind. Comp. OUTRO                                                                                                 5.585,62
+  1330 FGTS RecMes - Remun  OUTRO                                                                                                 1.224,98
+  1332 FGTS RecRes - Remun  OUTRO                                                                                                   161,15
+  1333 FGTS RecRes - 13Sal  OUTRO                                                                                                   114,77
+  1334 FGTS RecRes - AvPrev OUTRO                                                                                                   388,27
+  1335 FGTS Ind. Compensató OUTRO                                                                                                 1.152,61
+  1400 IRRF Rend Trib Remun OUTRO                                                                                                15.323,77
+  1402 IRRF Rend Trib 13°   OUTRO                                                                                                 1.793,43
+  1404 IRRF Rend Trib PLR   OUTRO                                                                                                 1.740,00
+3523 / 01 / F / 2330403758 / * / 0 / 480 3523_YAGCARVALHO_MENU-ESBO_CONSULTA 31/10/2023 08:36:59
+ 
+Assinado eletronicamente por: ALEXANDRE LAURIA DUTRA - Juntado em: 16/09/2024 18:39:01 - d983ea7
+Fls.: 149

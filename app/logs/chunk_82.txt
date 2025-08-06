@@ -1,0 +1,335 @@
+3523 / 01 / F / 2330403758 / * / 0 / 480 3523_YAGCARVALHO_MENU-ESBO_CONSULTA 31/10/2023 08:36:59
+Assinado eletronicamente por: ALEXANDRE LAURIA DUTRA - Juntado em: 16/09/2024 18:39:01 - d983ea7
+https://pje.trt15.jus.br/pjekz/validacao/24091618383152700000239863808?instancia=1
+Número do processo: 0011823-38.2023.5.15.0093
+Número do documento: 24091618383152700000239863808
+Fls.: 153
+
+
+Demonstrativo de Pagamento
+ 
+ESTABELECIMENTO
+C.N.P.J
+FOL
+ PEPSICO DO BRASIL LTDA
+31.565.104/0048-30
+1
+ESTAB
+ID GLOBAL
+NOME
+FUNÇÃO
+DEP
+FILH
+048
+80980997
+ ALEXANDRO PEREIRA DE OLIVEIRA
+VDOR RESERV DTS
+01
+02
+C.R.
+BCO
+AG
+CONTA
+SALÁRIO
+REFERÊNCIA
+BR32210
+237
+2646
+26595-0
+1.903,49/MES
+MAI/2023
+    DATA DE PAGAMENTO: 15/05/2023
+CONTA
+QTDE.v1 
+VENCIMENTOS 
+DESCONTOS 
+ 
+ 0010 Salário Base
+|
+58,67 |
+507,63 |
+ 
+ 0518 Media 13.Sal (Aviso Prev.Inden)
+|
+1,00 |
+158,21 |
+ 
+ 0630 Aviso Prévio Indeniz
+|
+30,00 |
+1.903,49 |
+ 
+ 0631 Med. Aviso Previo
+|
+ |
+2.088,94 |
+ 
+ 1922 1/3 Const F Prop Ind
+|
+ |
+887,21 |
+ 
+ 1923 1/3 Const Férias (Av Prev Inden)
+|
+ |
+110,90 |
+ 
+ 2772 Férias Indeniz Prop
+|
+20,00 |
+1.268,99 |
+ 
+ 2774 Média Férias Indenizadas Proporc.
+|
+ |
+1.392,63 |
+ 
+ 2775 Férias (Aviso Prévio Indenizado)
+|
+2,50 |
+158,62 |
+ 
+ 2776 Média Férias (Av Prev Inden)
+|
+ |
+174,08 |
+ 
+ 2880 13Sal Proporcional
+|
+4,00 |
+634,50 |
+ 
+ 2881 13Sal (Aviso Prévio Indenizado)
+|
+1,00 |
+158,62 |
+ 
+ 2882 Média 13º Salário Proporcional
+|
+4,00 |
+632,82 |
+ 
+ 4633 Indenização Lei 7238
+|
+ |
+1.903,49 |
+ 
+ 2821 Adiant Quinzenal
+|
+ |
+ |
+1.617,97 
+ 5321 Seguro de Vida
+|
+ |
+ |
+9,11 
+ 5560 INSS
+|
+ |
+ |
+38,07 
+ 5616 Vale Alimentação
+|
+ |
+ |
+26,90 
+ 5916 Vale Alimentação – Rescisão
+|
+ |
+ |
+457,30 
+ 9960 INSS 13Salário
+|
+ |
+ |
+122,77 
+ 
+---- -----BASE/OUTROS----- ----
+|
+-----
+|
+----------
+|
+----------
+ 
+ 5251 Base IR 13Sal
+|
+ |
+ |
+1.056,15 
+ 5561 Base INSS
+|
+ |
+ |
+507,63 
+ 8000 Salario Contribuicao
+|
+ |
+ |
+2.091,78 
+ 8002 Contribuição - Trib. Salário
+|
+ |
+ |
+507,63 
+ 8003 Contribuição - Trib. 13º Salário
+|
+ |
+ |
+1.584,15 
+ 9921 Base FGTS
+|
+ |
+ |
+4.500,06 
+ 9924 Base FGTS 13o.Sal.
+|
+ |
+ |
+1.584,15 
+ 9961 Base INSS 13Salário
+|
+ |
+ |
+1.584,15 
+ 0150 Antepenúltimo Salário - TRCT
+|
+ |
+ |
+3.476,89 
+ 
+T O T A I S
+VENCIMENTOS 
+DESCONTOS 
+LÍQUIDO 
+ 
+ 
+ 
+  
+  
+  
+  
+ Processado pela ADP
+ 
+Assinado eletronicamente por: ALEXANDRE LAURIA DUTRA - Juntado em: 16/09/2024 18:39:01 - 97090b1
+Fls.: 154
+
+
+Demonstrativo de Pagamento
+ 
+ESTABELECIMENTO
+C.N.P.J
+FOL
+ PEPSICO DO BRASIL LTDA
+31.565.104/0048-30
+2
+ESTAB
+ID GLOBAL
+NOME
+FUNÇÃO
+DEP
+FILH
+048
+80980997
+ ALEXANDRO PEREIRA DE OLIVEIRA
+VDOR RESERV DTS
+01
+02
+C.R.
+BCO
+AG
+CONTA
+SALÁRIO
+REFERÊNCIA
+BR32210
+237
+2646
+26595-0
+1.903,49/MES
+MAI/2023
+    DATA DE PAGAMENTO: 15/05/2023
+CONTA
+QTDE.v1 
+VENCIMENTOS 
+DESCONTOS 
+ 
+ 
+---- -----BASE/OUTROS----- ----
+|
+-----
+|
+----------
+|
+----------
+ 
+ 0151 Penúltimo Salário - TRCT
+|
+ |
+ |
+3.931,12 
+ 0152 Último Salário - TRCT
+|
+ |
+ |
+3.997,84 
+ 0170 Antepenúltimo Sal-Seguro Desemprego
+|
+ |
+ |
+3.476,89 
+ 0171 Penúltimo Sal-Seguro Desemprego
+|
+ |
+ |
+3.931,12 
+ 0172 Último Sal-Seguro Desemprego
+|
+ |
+ |
+3.997,84 
+ 3822 Qtde DSR (Mês Anterior)
+|
+ |
+ |
+7,00 
+ 3823 Qtde Dias úteis (Mês Anterior)
+|
+ |
+ |
+23,00 
+ 8100 Inss Empregador
+|
+20,00 |
+ |
+418,36 
+ 8101 RAT
+|
+ |
+ |
+78,28 
+ 9920 FGTS
+|
+ |
+ |
+360,00 
+ 9923 FGTS - 13o. Salário
+|
+ |
+ |
+126,73 
+ 
+T O T A I S
+VENCIMENTOS 
+DESCONTOS 
+LÍQUIDO 
+11.980,13 
+2.272,12 
+9.708,01 
+  
+  
+  
+  
+ Processado pela ADP
+Assinado eletronicamente por: ALEXANDRE LAURIA DUTRA - Juntado em: 16/09/2024 18:39:01 - 97090b1
+Fls.: 155

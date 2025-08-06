@@ -1,0 +1,250 @@
+Data da Juntada dos Acórdãos:
+ 
+Id
+Classe judicial
+Tipo de documento
+Data de juntada
+9898ac7
+Recurso Ordinário Trabalhista
+Acórdão
+14/10/2021
+680174e
+Recurso Ordinário Trabalhista
+Acórdão
+15/11/2021
+ 
+Data de Ciência/Publicação dos Expedientes:
+ 
+Id
+Nome da parte
+Tipo de documento
+Data de ciência
+/publicação
+e5ffb3
+2
+GERDAU ACOMINAS S
+/A
+Intimação / Diário
+Eletrônico
+18/10/2021
+156059
+c
+HELIDA MARTINS
+LIMA
+Intimação / Diário
+Eletrônico
+18/10/2021
+ae0923
+f
+GERDAU ACOMINAS S
+/A
+Intimação / Diário
+Eletrônico
+17/11/2021
+40e6b2
+f
+HELIDA MARTINS
+LIMA
+Intimação / Diário
+Eletrônico
+17/11/2021
+0b487e
+f
+GERDAU ACOMINAS S
+/A
+Intimação / Diário
+Eletrônico
+03/05/2022
+0b487e
+f
+HELIDA MARTINS
+LIMA
+Intimação / Diário
+Eletrônico
+03/05/2022
+0b487e
+f
+HELIDA MARTINS
+LIMA
+Intimação / Diário
+Eletrônico
+03/05/2022
+0b487e
+f
+GERDAU ACOMINAS S
+/A
+Intimação / Diário
+Eletrônico
+03/05/2022
+88d3f7
+d
+GERDAU ACOMINAS S
+/A
+Intimação / Diário
+Eletrônico
+23/05/2022
+88d3f7
+HELIDA MARTINS
+Intimação / Diário
+Assinado eletronicamente por: GUILHERME PEIXOTO RESENDE - Juntado em: 03/06/2022 09:55:12 - 8b065ac
+ID. 8b065ac - Pág. 2
+Documento assinado pelo Shodo
+Assinado eletronicamente por: RAQUEL LEÔNCIO GUIMARÃES - Juntado em: 21/07/2022 12:39:36 - a3ebaa4
+Fls.: 567
+
+
+d
+LIMA
+Eletrônico
+23/05/2022
+ 
+Contrarrazões:
+ 
+Id
+Nome do usuário
+Tipo de documento
+Data de
+juntada
+ae092
+3f
+AUGUSTO CESAR
+RODRIGUES
+Intimação
+16/11/2021
+40e6
+b2f
+AUGUSTO CESAR
+RODRIGUES
+Intimação
+16/11/2021
+82e8
+d05
+LEILA AZEVEDO SETTE
+Recurso de Revista
+29/11/2021
+e6fe3
+c4
+LEILA AZEVEDO SETTE
+Seguro Garantia Judicial
+29/11/2021
+9563f
+67
+LEILA AZEVEDO SETTE
+Seguro Garantia Judicial
+29/11/2021
+aebd
+a02
+LEILA AZEVEDO SETTE
+Seguro Garantia Judicial
+29/11/2021
+f7d54
+cc
+LEILA AZEVEDO SETTE
+Seguro Garantia Judicial
+29/11/2021
+6af89
+36
+LEILA AZEVEDO SETTE
+Documento Diverso
+29/11/2021
+2f503
+6b
+LEILA AZEVEDO SETTE
+Documento Diverso
+29/11/2021
+2a4fe
+f4
+LEILA AZEVEDO SETTE
+Documento Diverso
+29/11/2021
+d5c85
+f9
+César Pereira da Silva
+Machado Júnior
+Decisão
+30/04/2022
+0b48
+7ef
+César Pereira da Silva
+Machado Júnior
+Intimação
+30/04/2022
+66b4
+CLAUDIA MARIA RIBEIRO
+Assinado eletronicamente por: GUILHERME PEIXOTO RESENDE - Juntado em: 03/06/2022 09:55:12 - 8b065ac
+ID. 8b065ac - Pág. 3
+Documento assinado pelo Shodo
+Assinado eletronicamente por: RAQUEL LEÔNCIO GUIMARÃES - Juntado em: 21/07/2022 12:39:36 - a3ebaa4
+Fls.: 568
+
+
+7af
+TELES
+Certidão
+03/05/2022
+fe3ff4
+c
+LEILA AZEVEDO SETTE
+Agravo de Instrumento em
+Recurso de Revista
+13/05/2022
+ccb31
+35
+LEILA AZEVEDO SETTE
+Seguro Garantia Judicial
+13/05/2022
+9b0a
+b73
+LEILA AZEVEDO SETTE
+Seguro Garantia Judicial
+13/05/2022
+25c4d
+9c
+LEILA AZEVEDO SETTE
+Seguro Garantia Judicial
+13/05/2022
+1e04a
+28
+LEILA AZEVEDO SETTE
+Seguro Garantia Judicial
+13/05/2022
+aad06
+4f
+César Pereira da Silva
+Machado Júnior
+Decisão
+19/05/2022
+88d3f
+7d
+César Pereira da Silva
+Machado Júnior
+Intimação
+19/05/2022
+6d06
+917
+GUSTAVO HENRIQUE
+CAMPOS ALVES
+Contrarrazões
+01/06/2022
+34759
+c5
+GUSTAVO HENRIQUE
+CAMPOS ALVES
+Contraminuta
+01/06/2022
+ 
+ 
+CERTIFICO para os devidos fins que as informações acima são
+fidedignas com os registros do sistema PJe-JT no 2º grau.
+Nesses termos, faço a remessa dos autos ao Colendo TST.
+ 
+BELO HORIZONTE/MG, 03 de junho de 2022.
+GUILHERME PEIXOTO RESENDE
+Assinado eletronicamente por: GUILHERME PEIXOTO RESENDE - Juntado em: 03/06/2022 09:55:12 - 8b065ac
+https://pje.trt3.jus.br/pjekz/validacao/22060309550427600000084805673?instancia=2
+Número do processo: 0010269-29.2020.5.03.0054
+Número do documento: 22060309550427600000084805673
+ID. 8b065ac - Pág. 4
+Documento assinado pelo Shodo
+Assinado eletronicamente por: RAQUEL LEÔNCIO GUIMARÃES - Juntado em: 21/07/2022 12:39:36 - a3ebaa4
+Fls.: 569

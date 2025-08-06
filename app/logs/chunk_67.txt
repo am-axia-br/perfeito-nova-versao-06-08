@@ -1,0 +1,22 @@
+6409 Prov.Férias - Baixas PROV                                                                    3.992,43
+  6410 Prov.Férias INSS - B PROV                                                                    1.179,46
+  6411 Prov.Férias FGTS - B PROV                                                                      319,39
+  6412 Prov.Férias - Saldo  PROV        1.747,16       2.057,11       2.627,71       3.105,23
+  6413 Prov.Férias INSS - S PROV          516,16         607,72         776,29         917,36
+  6414 Prov.Férias FGTS - S PROV          139,77         164,57         210,22         248,42
+  6415 Prov.Férias - Ajuste PROV                         101,47
+  6416 Prov.Férias INSS - A PROV                          29,98
+  6417 Prov.Férias FGTS - A PROV                           8,11
+  6521 Prov. 13º Sal INSS - PROV           63,30         152,42         278,55         374,40
+  6522 Prov. 13º Sal FGTS - PROV           17,14          41,28          75,43         101,39
+  6523 Prov. 13º Sal - Acm. PROV          214,27         515,95         942,89       1.267,32
+  6524 Prov. 13º Sal - Acm. PROV                         214,27         515,95         942,89       1.267,32
+  6525 Prov. 13º Sal - Valo PROV          214,27         257,97         314,30         316,83
+  6526 Prov. 13º Sal INSS - PROV           63,30          76,21          92,85          93,60
+  6527 Prov. 13º Sal FGTS - PROV           17,14          20,64          25,14          25,35
+  6528 Prov. 13º Sal INSS - PROV                          63,30         152,42         278,55         374,40
+  6529 Prov. 13º Sal FGTS - PROV                          17,14          41,28          75,43         101,39
+  6530 Prov. 13º Sal - Baix PROV                                                                    1.584,15
+  6531 Prov. 13º Sal INSS - PROV                                                                      468,00
+Assinado eletronicamente por: ALEXANDRE LAURIA DUTRA - Juntado em: 16/09/2024 18:39:01 - d983ea7
+Fls.: 144
