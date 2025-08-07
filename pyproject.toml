@@ -1,0 +1,9 @@
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "perfecto"
+version = "0.1.0"
+description = "Aplicativo Streamlit para análise e visualização"
+requires-python = ">=3.9"
