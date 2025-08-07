@@ -2,7 +2,7 @@
 # requirements.txt (Atualizado para usar a API do Gemini)
 # ===================================================================
 
---prefer-binary
+prefer-binary
 
 setuptools>=61.0.0
 wheel
