@@ -1,43 +1,50 @@
-# Core e Compatibilidade
-streamlit==1.24.0
-numpy==1.22.0
-pandas==1.5.0
-python-dotenv==1.0.0
+# ===================================================================
+# requirements.txt (Atualizado para usar a API do Gemini)
+# ===================================================================
 
-# Autenticação
+# Para autenticação OAuth
 google-auth==2.23.0
 google-auth-oauthlib==1.1.0
 
-# Processamento básico (versões com wheels pré-compilados)
-beautifulsoup4==4.12.2
-lxml==4.9.2  # Mudado de 4.9.3 para 4.9.2 (versão com wheel)
-Pillow==10.0.0
+# --- Core e Compatibilidade ---
+numpy==1.24.4
+python-dotenv==1.0.0
+streamlit==1.27.0
 
-# Processamento de documentos simples (componentes essenciais)
+# --- Processamento de Documentos ---
+pytesseract==0.3.10
 python-docx==0.8.11
-openpyxl==3.1.2
+python-pptx==0.6.21
+beautifulsoup4==4.12.2
+lxml==4.9.3
+PyMuPDF==1.23.4
 jsonschema==4.19.1
+pandas==2.1.1
+odfpy==1.4.1
+openpyxl==3.1.2
 
-# Visualização
-matplotlib==3.7.1
+# --- Gemini e Langchain Core ---
+google-generativeai
+langchain
+langchain-google-genai # Última versão estável
+langchain-community    # Manter versão anterior
 
-# IA Generativa (componentes básicos)
-google-generativeai==0.3.2
-protobuf==4.25.0
+# --- RAG - Banco de Dados Vetorial ---
+chromadb==0.4.22
 
-# Remova temporariamente pacotes problemáticos para o deploy inicial:
-# PyMuPDF==1.23.4
-# pytesseract==0.3.10
-# python-pptx==0.6.21
-# odfpy==1.4.1
-# langchain
-# langchain-google-genai
-# langchain-community
-# chromadb==0.4.22
-# sentence-transformers==2.2.2
-# torch==2.0.1
-# transformers==4.29.2
-# huggingface_hub==0.16.4
-# scipy
-# docker
-# pytest
+sentence-transformers==2.2.2
+torch==2.0.1
+transformers==4.29.2
+huggingface_hub==0.16.4
+
+matplotlib
+scipy
+docker
+
+Pillow
+
+matplotlib
+
+protobuf
+
+pytest
