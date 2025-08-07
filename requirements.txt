@@ -3,7 +3,7 @@
 # ===================================================================
 
 # Evita build de pacotes a partir de código-fonte sempre que possível
-prefer-binary
+--prefer-binary
 
 # Corrige erro de build: setuptools + wheel são obrigatórios
 setuptools>=61.0.0
