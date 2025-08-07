@@ -1,13 +1,18 @@
 # ===================================================================
-# requirements.txt (Atualizado para usar a API do Gemini)
+# requirements.txt (Corrigido para Deploy na Render com Gemini + RAG)
 # ===================================================================
 
+# Evita build de pacotes a partir de código-fonte sempre que possível
 prefer-binary
 
+# Corrige erro de build: setuptools + wheel são obrigatórios
 setuptools>=61.0.0
 wheel
 
-# Para autenticação OAuth
+# Atualiza pip internamente no build
+pip>=23.2.1
+
+# Autenticação OAuth
 google-auth==2.23.0
 google-auth-oauthlib==1.1.0
 
@@ -31,25 +36,22 @@ openpyxl==3.1.2
 # --- Gemini e Langchain Core ---
 google-generativeai
 langchain
-langchain-google-genai # Última versão estável
-langchain-community    # Manter versão anterior
+langchain-google-genai
+langchain-community
 
 # --- RAG - Banco de Dados Vetorial ---
 chromadb==0.4.22
-
 sentence-transformers==2.2.2
 torch==2.0.1
 transformers==4.29.2
 huggingface_hub==0.16.4
 
+# --- Suporte Científico e Visualização ---
 matplotlib
 scipy
-docker
-
 Pillow
 
-matplotlib
-
+# --- Suporte a containers e testes ---
+docker
 protobuf
-
 pytest
